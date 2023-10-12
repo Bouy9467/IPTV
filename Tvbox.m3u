@@ -139,7 +139,7 @@ https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8|Referer=htt
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8ci30b.png", DISCOVERY Asia
-https://m1.ballnaja.com/Discovery_Asia/playlist.m3u8|Referer=https://www.ballnaja.com/
+https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/26/6IIsLy.jpg", HISTORY HD
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/26/6II8xf.jpg", H2 HD
