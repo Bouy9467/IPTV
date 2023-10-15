@@ -543,7 +543,8 @@ https://streaming.livescorethai.net/iptv/uk-premiersports.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/01/01/JxAMtI.png",REAL MADRID
 https://rmtv-canela.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/01/01/JxPEEq.png",FCB
-http://154.62.74.29:1935/live/barza/chunklist.m3u8
+#EXTVLCOPT:http-referrer=https://livescorethai.net
+https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/07/uVsOHy.png",BT Sport 1
 #EXTVLCOPT:http-referrer=https://livescorethai.net
