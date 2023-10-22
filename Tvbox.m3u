@@ -629,11 +629,14 @@ https://m1.ballnaja.com/BEIN2/tracks-v1a1/mono.m3u8
 https://m1.ballnaja.com/BEIN3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport 1 ENG
-http://45.139.122.199/play/live.php?mac=10:27:BE:15:b9:6e&stream=94483&extension=ts&play_token=ATrBHcDqqm
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com
+https://m1.ballnaja.com/ais_beIN_SPORTS_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein sport 2 ENG
-http://45.139.122.199/play/live.php?mac=10:27:BE:15:b9:6e&stream=94479&extension=ts&play_token=ATrBHcDqqm
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com
+https://m1.ballnaja.com/ais_beIN_SPORTS_2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",Bein sport 3 ENG
-http://45.139.122.199/play/live.php?mac=10:27:BE:15:b9:6e&stream=94475&extension=ts&play_token=ATrBHcDqqm
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com
+https://m1.ballnaja.com/ais_beIN_SPORTS_3/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport 1
 https://streaming.livescorethai.net/iptv/hd-bein1.stream/playlist.m3u8|Referer=https://livescorethai.net/
