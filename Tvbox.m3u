@@ -150,7 +150,7 @@ https://m2.ballnaja.com:8443/NATGEOWILD/playlist.m3u8|Referer=https://www.ballna
 https://m1.ballnaja.com:8443/National_Geographic/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/49a677f8cdcdb6682de1fa704227435b.png", ANIMALSHOW
 #EXTVLCOPT:http-referrer=https://laotv.la
-https://ctrl.laotv.la/tokenlive/AnimalShow/index.m3u8?va=1698484636&token=eca6f2dc5a2ad0d561f7
+https://ctrl.laotv.la/live/AnimalShow/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC8/index.m3u8
