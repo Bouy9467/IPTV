@@ -203,7 +203,7 @@ https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8|Referer=https://www.ballnaja.c
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051750-HBO-family.png",HBO family
 https://m2.ballnaja.com:8443/HBOFAMILY/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/02/6Q6Aae.jpg", CINEMAX
-http://dootvz.ddns.net:8080/live/3120600/3120600/136.ts
+https://edge2.laotv.la/sc/F7dc5790b3b734c8b9b73d68f8e3c3491_1698386055_lCsfYaYHadZkqTWGwkeXsnhS_1N7XK7Ca0EcYu0PTow/tokenlive/Cinemax/manifest.mpd
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/02/6Q6Aae.jpg", CINEMAX
 https://ctrl.laotv.la/live/Cinemax/index.m3u8|Referer=https://laotv.la/
 
