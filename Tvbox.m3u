@@ -143,9 +143,9 @@ https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|Refer
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/26/6IIsLy.jpg", HISTORY HD
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/26/6II8xf.jpg", H2 HD
-https://m1.ballnaja.com/History_Channel/playlist.m3u8|Referer=https://www.ballnaja.com/
+https://streaming.livescorethai.net/iptv/hd-historyeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/12/VYW2yq.png",NATIONAL WILD
-https://m2.ballnaja.com:8443/NATGEOWILD/playlist.m3u8|Referer=https://www.ballnaja.com/
+https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/02/nYenp8.png",NATIONAL GEOGRAPHIC
 https://m1.ballnaja.com:8443/National_Geographic/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/49a677f8cdcdb6682de1fa704227435b.png", ANIMALSHOW
@@ -530,7 +530,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ballthai3/playlist.m3u8
 https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/01/01/JxPiM9.png",LFC
 #EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/uk-premiersports.stream/playlist.m3u8
+https://streaming.livescorethai.net/iptv/uk-lfctv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/01/01/JxAMtI.png",REAL MADRID
 https://rmtv-canela.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2023/01/01/JxPEEq.png",FCB
