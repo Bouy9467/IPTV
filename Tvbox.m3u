@@ -136,8 +136,8 @@ https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/18/8r0pEV.png", TLC
 https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/04/HJUUwJ.jpg", DISCOVERY CHANNEL
-#EXTVLCOPT:http-referrer=https://laotv.la
-https://ctrl.laotv.la/live/Discovery/index.m3u8
+#EXTVLCOPT:http-referrer=https://livescorethai.net
+https://streaming.livescorethai.net/iptv/sd-discoveryeng.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8ci30b.png", DISCOVERY Asia
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/26/6IIsLy.jpg", HISTORY HD
