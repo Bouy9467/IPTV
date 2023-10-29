@@ -652,13 +652,17 @@ https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8|Referer
 https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0ElFE.webp",ARENA SPORT1
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=19333&extension=ts&play_token=Nqul4hdiLa
+#EXTVLCOPT:http-referrer=https://livescorethai.net
+https://streaming.livescorethai.net/iptv/rs-arena1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EDtN.webp",ARENA SPORT2
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=19332&extension=ts&play_token=jK3eQA4dNr
+#EXTVLCOPT:http-referrer=https://livescorethai.net
+https://streaming.livescorethai.net/iptv/rs-arena2.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EPGQ.webp",ARENA SPORT3
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=31693&extension=ts&play_token=WF58BzVBj3
+#EXTVLCOPT:http-referrer=https://livescorethai.net
+https://streaming.livescorethai.net/iptv/rs-arena3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0ECqn.webp",ARENA SPORT4
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=63153&extension=ts&play_token=ce43Jry7FI
+#EXTVLCOPT:http-referrer=https://livescorethai.net
+https://streaming.livescorethai.net/iptv/rs-arena4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EHFy.jpg",ESPN
 http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=9706&extension=ts&play_token=WxVgfkiY1K
