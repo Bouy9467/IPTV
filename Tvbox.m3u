@@ -569,15 +569,20 @@ https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/Diema%20Spor
 https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/Diema%20Sport%203%20Bulgaria/playlist.m3u8|Referer=https://ufabetcompany.net
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/21/6N4qxy.png",Sport TV1 HD
-http://95.216.211.10:8081/diana/sporttv1hd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/21/6N45nD.png",Sport TV2 HD
-http://95.216.211.10:8081/diana/sporttv2hd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/21/6N4Od9.png", Sport TV3 HD
-http://95.216.211.10:8081/diana/sporttv3hd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/21/6N4jPb.png", Sport TV4 HD
-http://95.216.211.10:8081/diana/sporttv4hd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/21/6N4Abq.png", Sport TV5 HD
-http://95.216.211.10:8081/diana/sporttv5hd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/sporttv5/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EcF0.webp", Astro SuperSport
 #EXTVLCOPT:http-referrer=https://dooball2you.com
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro1/playlist.m3u8
