@@ -652,17 +652,17 @@ https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8|Referer
 https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0ElFE.webp",ARENA SPORT1
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/rs-arena1.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EDtN.webp",ARENA SPORT2
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/rs-arena2.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EPGQ.webp",ARENA SPORT3
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/rs-arena3.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0ECqn.webp",ARENA SPORT4
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/rs-arena4.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EHFy.jpg",ESPN
 http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=9706&extension=ts&play_token=WxVgfkiY1K
