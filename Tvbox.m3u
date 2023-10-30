@@ -683,16 +683,16 @@ http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=63652&exten
 http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=63653&extension=ts&play_token=gQ3VxROeBL
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/05/V6UrII.jpg",digiSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=802&extension=ts&play_token=xJm02eOZ3Y
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport1/playlist.m3u8|Referer=https://dooball2you.com
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/05/V6qBMJ.jpg",digiSport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=803&extension=ts&play_token=P0fWT56d8T
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport2/playlist.m3u8|Referer=https://dooball2you.com
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/05/V6qkAf.png",digiSport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=804&extension=ts&play_token=AIPBHRfhVs
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport3/playlist.m3u8|Referer=https://dooball2you.com
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/05/V6q3La.png",digiSport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=9180&extension=ts&play_token=XD3gFQMUur
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport4/playlist.m3u8|Referer=https://dooball2you.com
 #EXTINF: -1 tvg-logo="https://www.img.in.th/images/adda70cede46360affb01c33228fc14a.png", FOX SPORTS
 https://streaming.livescorethai.net/iptv/us-foxsports1.stream/playlist.m3u8|Referer=https://livescorethai.net
 #EXTINF: -1 tvg-logo="https://www.img.in.th/images/a21c1b6cb008a54dc04b446bed649bf3.png", FOX SPORTS2
