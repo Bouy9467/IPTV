@@ -670,17 +670,17 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/playlist.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EHFy.jpg",ESPN
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=9706&extension=ts&play_token=WxVgfkiY1K
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/11642
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EXtD.png",ESPN2
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=9707&extension=ts&play_token=AqGyE8wxll
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/38575
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EpGJ.png",ESPN3
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=9708&extension=ts&play_token=b8ZeTQQX5a
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/194358
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/05/HzFRSR.jpg",MAT4!1
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=63651&extension=ts&play_token=KzmsIFqymn
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/281536
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/05/HzFxi0.png",MAT4!2
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=63652&extension=ts&play_token=AxPW9jkBaE
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/11637
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/05/HzF2IV.png",MAT4!3
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=63653&extension=ts&play_token=gQ3VxROeBL
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/15200
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/05/V6UrII.jpg",digiSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport1/playlist.m3u8|Referer=https://dooball2you.com
