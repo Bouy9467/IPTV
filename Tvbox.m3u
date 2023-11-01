@@ -551,13 +551,13 @@ https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8
 https://streaming.livescorethai.net/iptv/uk-btsport4hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/HpoB61.jpg",SK1HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=1983&extension=ts&play_token=W5GWn2is2u
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/3467
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/HpofMy.jpg",SK2HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=1984&extension=ts&play_token=zQv76GgGd5
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/3468
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/Hpo4zW.jpg",SK3HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-http://nex.4k-iptv.net:80/play/live.php?mac=00:1A:79:6e:c9:da&stream=239&extension=ts&play_token=1dfDGct6Dn
+http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/3469
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/27/VEUXkq.jpg",Diema Sport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
 https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/Diema%20Sport%201%20Bulgaria/playlist.m3u8|Referer=https://ufabetcompany.net
