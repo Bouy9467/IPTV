@@ -252,8 +252,7 @@ https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8|Refer
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6PvhlN.png", True Thai Film
-#EXTVLCOPT:http-referrer=https://ballnaja.com
-https://m1.ballnaja.com/True_Thai_Film/playlist.m3u8
+http://183.182.100.240:1936/threstr2/thaifilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/bbeb884556b7c108c282fb60e0b94ebd.jpg", True Film Asia
 https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/29/83zQsE.png",True Film 1
