@@ -228,8 +228,8 @@ http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zpRvW.png",KBS world
-#EXTVLCOPT:http-referrer=https://ballnaja.com
-https://m2.ballnaja.com:8443/kbs/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://laotv.la
+https://ctrl.laotv.la/live/KBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/3BB_Asian.webp",3BB Asian
 #EXTVLCOPT:http-referrer=https://ballnaja.com/
 https://m1.ballnaja.com/ais_3BB_Asian/playlist.m3u8
