@@ -359,9 +359,6 @@ https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKQSN.png",True Premier Football 3
 #EXTVLCOPT:http-referrer=https://www.livedoomovies.com
 https://sport.livedoomovies.com:4431/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKQSN.png",True Premier Football 3
-#EXTVLCOPT:http-referrer=https://www.gogleuservideo.com
-https://r3-sn-5fo-c37ed8.googleuservideo.com/dooball_tv1/trueepl3_480p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKqCQ.png",True Premier Football 4
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8
