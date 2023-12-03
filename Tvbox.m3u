@@ -389,8 +389,8 @@ https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
-#EXTVLCOPT:http-referrer=https://ufabetcompany.net
-https://streaming-3.vip-streaming.com/ufabetcompany-live/bein-sport-1-th/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server2.thailiveball.com/ufabetcompany-live/bein-sport-1-th/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
@@ -408,11 +408,11 @@ https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",beIN SPORT 3
-#EXTVLCOPT:http-referrer=https://ufabetcompany.net
-https://live.vip-streaming.com/ufabetcompany-live/bein-sport-3-th/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server2.thailiveball.com/ufabetcompany-live/bein-sport-3-th/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",beIN SPORT 3
-#EXTVLCOPT:http-referrer=https://ufabetcompany.net
-https://streaming-3.vip-streaming.com/ufabetcompany-live/bein-sport-3-th/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server4.thailiveball.com/ufabetcompany-live/bein-sport-1-th/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",beIN SPORT 3
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
@@ -420,11 +420,8 @@ https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
 https://smart-tv.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com/
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThYU1.png",True Sports 1
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live-streaming-3.vip-streaming.com/ufabetcompany-live/true-sport-1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThYU1.png",True Sports 1
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live.vip-streaming.com/ufabetcompany-live/true-sport-1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server2.thailiveball.com/ufabetcompany-live/true-sport-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThYU1.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8
@@ -453,11 +450,8 @@ https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rTh3Tf.png",True Sports 3
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live-streaming-3.vip-streaming.com/ufabetcompany-live/true-sport-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rTh3Tf.png",True Sports 3
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live.vip-streaming.com/ufabetcompany-live/true-sport-3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server2.thailiveball.com/ufabetcompany-live/true-sport-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rTh3Tf.png",True Sports 3
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
@@ -465,8 +459,8 @@ https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8
 https://smart-tv.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com/
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThwBz.png",True Sports 4
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live.vip-streaming.com/ufabetcompany-live/true-sport-4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server2.thailiveball.com/ufabetcompany-live/true-sport-5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThwBz.png",True Sports 4
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8
@@ -474,11 +468,8 @@ https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8
 https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com/
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThK8R.png",True Sports 5
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live-streaming-3.vip-streaming.com/ufabetcompany-live/true-sport-5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThK8R.png",True Sports 5
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live.vip-streaming.com/ufabetcompany-live/true-sport-5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server2.thailiveball.com/ufabetcompany-live/true-sport-5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThK8R.png",True Sports 5
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8
@@ -489,11 +480,8 @@ https://smart-tv.livedoomovies.com:4431/02_sport5_480p/chunklist.m3u8|Referer=ht
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/THD7/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThi2Z.png",True Sports 7
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live-streaming-3.vip-streaming.com/ufabetcompany-live/true-sport-7/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThi2Z.png",True Sports 7
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live.vip-streaming.com/ufabetcompany-live/true-sport-7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server2.thailiveball.com/ufabetcompany-live/true-sport-7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThi2Z.png",True Sports 7
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8
