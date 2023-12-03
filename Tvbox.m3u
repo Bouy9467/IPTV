@@ -438,11 +438,11 @@ https://ctrl.laotv.la/live/TrueSport6/index.m3u8
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://edge1.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThhyb.png",True Sports 2
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live-streaming-3.vip-streaming.com/ufabetcompany-live/true-sport-2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server4.thailiveball.com/ufabetcompany-live/true-sport-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThhyb.png",True Sports 2
-#EXTVLCOPT:http-referrer=https://ufacompany.com
-https://live.vip-streaming.com/ufabetcompany-live/true-sport-2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server2.thailiveball.com/ufabetcompany-live/true-sport-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThhyb.png",True Sports 2
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8
