@@ -604,8 +604,8 @@ https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8|R
 https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/playlist.m3u8|Referer=https://livescorethai.net/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport premium 1
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-https://m1.ballnaja.com/BEIN1/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server3.thailiveball.com/ufabetcompany-live/canal-sport-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein sport premium 2
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com
 https://m1.ballnaja.com/BEIN2/tracks-v1a1/mono.m3u8
@@ -614,14 +614,14 @@ https://m1.ballnaja.com/BEIN2/tracks-v1a1/mono.m3u8
 https://m1.ballnaja.com/BEIN3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport 1 ENG
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-https://m1.ballnaja.com/ais_beIN_SPORTS_1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server3.thailiveball.com/ufabetcompany-live/beIN%20Sports%201%20Premium/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein sport 2 ENG
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-https://m1.ballnaja.com/ais_beIN_SPORTS_2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server3.thailiveball.com/ufabetcompany-live/beIN%20Sports%202%20Premium/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",Bein sport 3 ENG
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-https://m1.ballnaja.com/ais_beIN_SPORTS_3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ufabetcompany.app
+https://server3.thailiveball.com/ufabetcompany-live/beIN%20Sports%203%20Premium/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport 1
 https://streaming.livescorethai.net/iptv/hd-bein1.stream/playlist.m3u8|Referer=https://livescorethai.net/
