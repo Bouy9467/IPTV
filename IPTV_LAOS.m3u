@@ -1,4 +1,4 @@
-#EXTM3U 22.11.2023
+#EXTM3U 01.01.2024
 #EXTINF:-1 tvg-logo="https://poc-cdn-google.sdmc.tv/xmediatv/public/upload/100036087499/20230609/video/5c2f2ef7-fcc2-439b-a0d4-dd7356f66cb2.png",LNTV1
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/LNTV1/index.m3u8
