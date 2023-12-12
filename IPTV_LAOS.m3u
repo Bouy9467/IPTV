@@ -91,16 +91,16 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chthairath3/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTzyS.png",Thairath TV
 #EXTVLCOPT:http-referrer=https://dooball2you.com
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/thairathtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTMof.png",CH3 HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTMof.png",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Safari/537.36 Edg/100.0.1185.44
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTMof.png",CH3 HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTMof.png",3 HD
 #EXTVLCOPT:http-referrer=https://dooball2you.com
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/3hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTdrE.png",Amarin TV
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTdrE.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTdrE.png",Amarin TV
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTdrE.png",AmarinTV HD
 #EXTVLCOPT:http-referrer=https://dooball2you.com
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/amarin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9MNk.png",CH7 HD
