@@ -658,17 +658,20 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/playlist.m3u8
 https://server3.thailiveball.com/ufabetcompany-live/Arena%20Sport%204%20Croatia/playlist.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EHFy.jpg",ESPN
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/11642
+#EXTVLCOPT:http-referrer=https://dooball678.com
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/ESPN%20Netherlands/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EXtD.png",ESPN2
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/38575
+#EXTVLCOPT:http-referrer=https://dooball678.com
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/ESPN%202%20Netherlands/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EpGJ.png",ESPN3
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/194358
+#EXTVLCOPT:http-referrer=https://dooball678.com
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/ESPN%203%20Netherlands/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/05/HzFRSR.jpg",MAT4!1
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/281536
+
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/05/HzFxi0.png",MAT4!2
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/11637
+
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/05/HzF2IV.png",MAT4!3
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/15200
+
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/05/V6UrII.jpg",digiSport 1
 #EXTVLCOPT:http-referrer=https://dooball2you.com
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport1/playlist.m3u8
