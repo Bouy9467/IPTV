@@ -534,24 +534,23 @@ https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/10/02/p5Ve51.png",BT Sport 4
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/uk-btsport4hd.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/HpoB61.jpg",SK1HD
-#EXTVLCOPT:http-referrer=https://www.dooball678.com
+#EXTVLCOPT:http-referrer=https://dooball678.com
 https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Sport%20Klub%201%20Serbia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/HpofMy.jpg",SK2HD
-#EXTVLCOPT:http-referrer=https://www.dooball678.com
+#EXTVLCOPT:http-referrer=https://dooball678.com
 https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Sport%20Klub%202%20Serbia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/Hpo4zW.jpg",SK3HD
-#EXTVLCOPT:http-referrer=https://www.dooball678.com
+#EXTVLCOPT:http-referrer=https://dooball678.com
 https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Sport%20Klub%203%20Serbia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/27/VEUXkq.jpg",Diema Sport1
-#EXTVLCOPT:http-referrer=https://www.dooball678.com
+#EXTVLCOPT:http-referrer=https://dooball678.com
 https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Diema%20Sport%202%20Bulgaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/Diema%20Sport%202.png",Diema Sport2
-#EXTVLCOPT:http-referrer=https://www.dooball678.com
+#EXTVLCOPT:http-referrer=https://dooball678.com
 https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Diema%20Sport%202%20Bulgaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/AopcTE0QyFk5BZf6Mqqpo4ma1vMf208Diema_Sport_3.png",Diema Sport3
-#EXTVLCOPT:http-referrer=https://www.dooball678.com
+#EXTVLCOPT:http-referrer=https://dooball678.com
 https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Diema%20Sport%203%20Bulgaria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/21/6N4qxy.png",Sport TV1 HD
