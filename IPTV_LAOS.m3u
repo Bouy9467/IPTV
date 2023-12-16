@@ -535,23 +535,28 @@ https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/uk-btsport4hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/HpoB61.jpg",SK1HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/3467
+#EXTVLCOPT:http-referrer=https://www.dooball678.com
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Sport%20Klub%201%20Serbia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/HpofMy.jpg",SK2HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/3468
+#EXTVLCOPT:http-referrer=https://www.dooball678.com
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Sport%20Klub%202%20Serbia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/Hpo4zW.jpg",SK3HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-http://kuchini.site:8080/livetvchannel2021/HdMu7tC58K3YtyY7/3469
+#EXTVLCOPT:http-referrer=https://www.dooball678.com
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Sport%20Klub%203%20Serbia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/27/VEUXkq.jpg",Diema Sport1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/Diema%20Sport%201%20Bulgaria/playlist.m3u8|Referer=https://ufabetcompany.net
+#EXTVLCOPT:http-referrer=https://www.dooball678.com
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Diema%20Sport%202%20Bulgaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/Diema%20Sport%202.png",Diema Sport2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/Diema%20Sport%202%20Bulgaria/playlist.m3u8|Referer=https://ufabetcompany.net
+#EXTVLCOPT:http-referrer=https://www.dooball678.com
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Diema%20Sport%202%20Bulgaria/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/AopcTE0QyFk5BZf6Mqqpo4ma1vMf208Diema_Sport_3.png",Diema Sport3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128
-https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/Diema%20Sport%203%20Bulgaria/playlist.m3u8|Referer=https://ufabetcompany.net
+#EXTVLCOPT:http-referrer=https://www.dooball678.com
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Diema%20Sport%203%20Bulgaria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/21/6N4qxy.png",Sport TV1 HD
 #EXTVLCOPT:http-referrer=https://dooball2you.com
@@ -645,17 +650,17 @@ https://streaming.livescorethai.net/iptv/fr-bein2hd.stream/playlist.m3u8|Referer
 https://streaming.livescorethai.net/iptv/fr-bein3hd.stream/playlist.m3u8|Referer=https://freetvdd.com/
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0ElFE.webp",ARENA SPORT1
-#EXTVLCOPT:http-referrer=https://dooball2you.com 
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball678.com 
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Arena%20Sport%201%20Croatia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EDtN.webp",ARENA SPORT2
-#EXTVLCOPT:http-referrer=https://dooball2you.com 
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball678.com 
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Arena%20Sport%202%20Croatia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EPGQ.webp",ARENA SPORT3
-#EXTVLCOPT:http-referrer=https://dooball2you.com 
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball678.com 
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Arena%20Sport%203%20Croatia/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0ECqn.webp",ARENA SPORT4
-#EXTVLCOPT:http-referrer=https://dooball2you.com 
-https://server3.thailiveball.com/ufabetcompany-live/Arena%20Sport%204%20Croatia/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dooball678.com 
+https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Arena%20Sport%201%20Croatia/playlist.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/arenasport4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0EHFy.jpg",ESPN
 #EXTVLCOPT:http-referrer=https://dooball678.com
