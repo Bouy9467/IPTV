@@ -209,17 +209,6 @@ https://m2.ballnaja.com:8443/HBOFAMILY/playlist.m3u8|Referer=https://www.ballnaj
 https://edge2.laotv.la/sc/F7dc5790b3b734c8b9b73d68f8e3c3491_1698386055_lCsfYaYHadZkqTWGwkeXsnhS_1N7XK7Ca0EcYu0PTow/tokenlive/Cinemax/manifest.mpd
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/02/6Q6Aae.jpg", CINEMAX
 https://ctrl.laotv.la/live/Cinemax/index.m3u8|Referer=https://laotv.la/
-
-#EXTINF:-1 tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/sling_fxx.webp", FXX
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com/
-https://m2.ballnaja.com:8443/sling_fxx/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/fxm.webp", FXM
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com/
-https://m2.ballnaja.com:8443/sling_fxm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/fx.webp", FX
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com/
-https://m2.ballnaja.com:8443/sling_fx/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/05/6EeXLf.jpg",AXN
 https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",Warner TV
@@ -255,8 +244,6 @@ https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8|Refer
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6PvhlN.png", True Thai Film
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6PvhlN.png", True Thai Film
-http://183.182.100.240:1936/threstr2/thaifilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/bbeb884556b7c108c282fb60e0b94ebd.jpg", True Film Asia
 https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/29/83zQsE.png",True Film 1
@@ -294,7 +281,7 @@ http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-topnews.png",TOPNEWS
 https://live.topnews.co.th/hls/topnews.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/26/6wgmpQ.png",CNN HD
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/26/6wgmpQ.png",CNN
 https://streaming.livescorethai.net/iptv/hd-cnn.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0xBi0.jpg",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
