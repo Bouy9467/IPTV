@@ -513,19 +513,15 @@ https://rmtv-canela.amagi.tv/playlist1080-p.m3u8
 https://streaming.livescorethai.net/iptv/uk-mutv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/07/uVsOHy.png",BT Sport 1
-#EXTVLCOPT:http-referrer=https://livescorethai.net
 https://247c.mrgamingstreams.com/mrgamingbtsport1.m3u8
 https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/967-9676257_bt-sport-2-logo.png",BT Sport 2
-#EXTVLCOPT:http-referrer=https://livescorethai.net
 https://247c.mrgamingstreams.com/mrgamingbtsport2.m3u8
 https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/07/uVsWlq.png",BT Sport 3
-#EXTVLCOPT:http-referrer=https://livescorethai.net
 https://247c.mrgamingstreams.com/mrgamingbtsport3.m3u8
 https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/10/02/p5Ve51.png",BT Sport 4
-#EXTVLCOPT:http-referrer=https://livescorethai.net
 https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 https://streaming.livescorethai.net/iptv/uk-btsport4hd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/HpoB61.jpg",SK1HD
