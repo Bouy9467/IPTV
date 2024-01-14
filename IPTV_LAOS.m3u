@@ -198,7 +198,7 @@ https://ctrl.laotv.la/live/HBO/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png",HBO
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png",HBO 
-https://strc136.playhd.la/threstr2/hbohd/playlist.m3u8
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyG_8JdsZAgU4upYT0WZXH4/ts
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051803-HBO-hits.png",HBO Hits
 https://m2.ballnaja.com:8443/HBOHITS/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051810-HBO-signature.png",HBO signature
@@ -206,7 +206,7 @@ https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8|Referer=https://www.ballnaja.c
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051750-HBO-family.png",HBO family
 https://m2.ballnaja.com:8443/HBOFAMILY/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/02/6Q6Aae.jpg", CINEMAX
-https://edge2.laotv.la/sc/F7dc5790b3b734c8b9b73d68f8e3c3491_1698386055_lCsfYaYHadZkqTWGwkeXsnhS_1N7XK7Ca0EcYu0PTow/tokenlive/Cinemax/manifest.mpd
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5LmvFhDsDjByK908iJcLoI/ts
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/02/6Q6Aae.jpg", CINEMAX
 https://ctrl.laotv.la/live/Cinemax/index.m3u8|Referer=https://laotv.la/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/05/6EeXLf.jpg",AXN
@@ -218,7 +218,7 @@ https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|Referer=
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/03/6qQ0xa.jpg", Thrill
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1JiwTJidNDIoz_Y5wIOvLA/ts
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zpRvW.png",KBS world
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/KBS/index.m3u8
