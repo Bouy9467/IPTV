@@ -578,16 +578,22 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/astro5/playlist.m3u8
 https://streaming.livescorethai.net/iptv/fr-eurosport.stream/playlist.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/euro-sport.png",euroSport 2
 https://streaming.livescorethai.net/iptv/uk-eurosport2.stream/playlist.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://cdn.pic.in.th/file/picinth/download6ac60ba77c109b80.jpeg",Sky sport mix
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Sky_Sport_Mix_Logo_2022.svg",Sky sport mix
 https://streaming.livescorethai.net/iptv/uk-skysports-mix.stream/playlist.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://cdn.pic.in.th/file/picinth/download-1a94ca52f4a1f1e95.png",Sky sport bundesliga
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Sky_Sport_Bundesliga_UHD_DE_Logo_2016.png",Sky sport bundesliga
 https://streaming.livescorethai.net/iptv/de-skybundesliga.stream/playlist.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/16/VFdXmg.png",Skysport football
 https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/playlist.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/16/VF0Nru.jpg",Skysport premier league
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://cdn.pic.in.th/file/picinth/downloadbc70ecd6d3195b94.png",Skysport mainevent
-https://streaming.livescorethai.net/iptv/uk-skysports-mainevent.stream/playlist.m3u8|Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Sky_Sport_F1_-_Logo_2020.svg",Skysport F1
+https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-logo="https://cdn.pic.in.th/file/picinth/downloadbc70ecd6d3195b94.png",Skysport Cricket 
+https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky_Sport_Action.svg",Skysport Action
+https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8|Referer=https://livescorethai.net/
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sky_Sport_Arena_-_Logo_2020.svg",Skysport Arena
+https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/chunks.m3u8|Referer=https://livescorethai.net/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport premium 1
 https://hls.streambtw.com/live/stream_1.m3u8
