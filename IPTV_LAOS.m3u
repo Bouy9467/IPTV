@@ -588,7 +588,7 @@ https://streaming.livescorethai.net/iptv/uk-skysports-football.stream/playlist.m
 https://streaming.livescorethai.net/iptv/uk-skysports-epl.stream/playlist.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Sky_Sport_F1_-_Logo_2020.svg",Skysport F1
 https://streaming.livescorethai.net/iptv/uk-skysports-f1.stream/chunks.m3u8|Referer=https://livescorethai.net/
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/maxpic/u2t4o0o0a9y3o0a9/",Skysport Cricket 
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png",Skysport Cricket 
 https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Sky_Sport_Action.svg",Skysport Action
 https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8|Referer=https://livescorethai.net/
