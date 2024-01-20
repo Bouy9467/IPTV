@@ -200,11 +200,11 @@ https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8|Referer=
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png",HBO 
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAlyG_8JdsZAgU4upYT0WZXH4/ts
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051803-HBO-hits.png",HBO Hits
-https://m2.ballnaja.com:8443/HBOHITS/playlist.m3u8|Referer=https://www.ballnaja.com/
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuECy2JNi3y-F8mBeis1Kdg/ts
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051810-HBO-signature.png",HBO signature
 https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051750-HBO-family.png",HBO family
-https://m2.ballnaja.com:8443/HBOFAMILY/playlist.m3u8|Referer=https://www.ballnaja.com/
+http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/02/6Q6Aae.jpg", CINEMAX
 http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl5LmvFhDsDjByK908iJcLoI/ts
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/02/6Q6Aae.jpg", CINEMAX
