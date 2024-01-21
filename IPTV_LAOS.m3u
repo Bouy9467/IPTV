@@ -520,11 +520,11 @@ https://streaming.livescorethai.net/iptv/uk-btsport1hd.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/uk-btsport2hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_3.jpg",TNT Sport 3
+#EXTINF:-1 tvg-logo="https://img01.products.bt.co.uk/content/dam/bt/portal/images/logos/tnt/TNTSports3_Logo_TNTBlack_RGB.png",TNT Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/uk-btsport3hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.comedy.co.uk/images/channels/tnt_sports_4.jpg",TNT Sport 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/TNT_Sports_4_logo.png/200px-TNT_Sports_4_logo.png",TNT Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/uk-btsport4hd.stream/playlist.m3u8
