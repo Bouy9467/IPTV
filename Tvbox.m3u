@@ -1,4 +1,6 @@
 #EXTM3U 13.12.2023
+#EXTINF:-1 tvg-logo="https://www.freeshot.live/upload/source/SuperSportPremierLeague-logo.png",Supersport premier 
+http://supersonictv.live:8080/419094/970686/86880
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein sport 1
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8
