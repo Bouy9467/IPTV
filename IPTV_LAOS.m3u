@@ -492,14 +492,17 @@ https://smart-tv.livedoomovies.com:4431/02_golfhd_720p/chunklist.m3u8|Referer=ht
 https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",Ballthai 1
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ballthai1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp",Ballthai 2
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ballthai2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp",Ballthai 3
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ballthai3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp",Ballthai 4
+#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/09/VXcWFJ.png",MUTV
 https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
