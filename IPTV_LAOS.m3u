@@ -21,6 +21,9 @@ https://ctrl.laotv.la/live/VTE9/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvhQWb.png",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chnbt3/index.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvhQWb.png",NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvh0De.png",TPBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -96,17 +99,20 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/thairathtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Safari/537.36 Edg/100.0.1185.44
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch3hd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTMof.png",3 HD
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/3hd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTdrE.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chamarin3/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTdrE.png",AmarinTV HD
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/amarin/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9MNk.png",CH7 HD
 #EXTVLCOPT:http-referrer=https://www.ch7.com/
 http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9MNk.png",CH7 HD
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9MNk.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 9; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Safari/537.36 Edg/100.0.1185.44
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
@@ -115,8 +121,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch7hd3/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv1LSk.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dooball2you.com
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/pptv/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/26/6M7t7J.jpg", NASA
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
