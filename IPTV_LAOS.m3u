@@ -176,14 +176,13 @@ https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/playlist.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/02/nYenp8.png",NATIONAL GEOGRAPHIC
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/49a677f8cdcdb6682de1fa704227435b.png", ANIMALSHOW
-#EXTVLCOPT:http-referrer=https://laotv.la
-https://ctrl.laotv.la/live/AnimalShow/index.m3u8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/584fe75d73c3958fd7a29c6e1a747592.png", MYSCI
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC37/index.m3u8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/8e8992c5c5816289e169674a8367a3f2.png", NEW EXPLORER
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC31/index.m3u8
