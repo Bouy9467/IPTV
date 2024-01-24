@@ -246,8 +246,7 @@ http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1JiwTJidNDIoz_Y5wIOvLA/ts
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/KBS/index.m3u8
 #EXTINF:-1 tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/3BB_Asian.webp",3BB Asian
-#EXTVLCOPT:http-referrer=https://ballnaja.com/
-https://m1.ballnaja.com/ais_3BB_Asian/playlist.m3u8
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0039/HLS/V0039.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/16/8u3jeq.png",True MOVIE HITS
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/03/HvZr8b.png",true series
