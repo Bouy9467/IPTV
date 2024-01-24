@@ -320,7 +320,7 @@ https://cdn6.goprimetime.info/feed/202306140918/LC16/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/23/8vrncy.png",NHK World
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/16/8uN80n.png",CGTN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/HLS/V0174.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/16/8uSXOQ.png",BBC NEWS
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livescorethai.net
