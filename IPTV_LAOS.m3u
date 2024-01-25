@@ -175,12 +175,12 @@ https://streaming.livescorethai.net/iptv/hd-historyeng.stream/playlist.m3u8|Refe
 https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/02/nYenp8.png",NATIONAL GEOGRAPHIC
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/49a677f8cdcdb6682de1fa704227435b.png", ANIMALSHOW
+#EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png", ANIMALSHOW
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.discordapp.com/attachments/961584381993037847/961593510493061171/05636ed570352d41af1a75c472f37552.jpg", สำรวจโลก
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
-#EXTINF:-1, tvg-logo="https://www.img.in.th/images/584fe75d73c3958fd7a29c6e1a747592.png", MYSCI
+#EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png", MYSCI
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png", khongdee
@@ -215,22 +215,22 @@ https://m1.ballnaja.com/DreamWorks/playlist.m3u8|Referer=https://ballnaja.com/
 https://m2.ballnaja.com:8443/HITS_MOVIES/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/30/VogXha.jpg",HIT
 https://m2.ballnaja.com:8443/HITS/playlist.m3u8|Referer=https://ballnaja.com/
-#EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png",HBO
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/HBO/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png",HBO
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051731-HBO-HD.png",HBO 
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO 
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shvmdgqVXqZbpRkV4KuT5fE8/ts
-#EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051803-HBO-hits.png",HBO Hits
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shuECy2JNi3y-F8mBeis1Kdg/ts
-#EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051810-HBO-signature.png",HBO signature
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",HBO signature
 https://m2.ballnaja.com:8443/HBOSIG/playlist.m3u8|Referer=https://www.ballnaja.com/
-#EXTINF:-1 tvg-logo="https://www.doofootball.com/uploads/selfimgs/channelimg/20210724-051750-HBO-family.png",HBO family
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO family
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/02/6Q6Aae.jpg", CINEMAX
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/02/6Q6Aae.jpg", CINEMAX
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 https://ctrl.laotv.la/live/Cinemax/index.m3u8|Referer=https://laotv.la/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/05/6EeXLf.jpg",AXN
 https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://freetvdd.com/
