@@ -159,7 +159,7 @@ https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png", Lifetime
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/01/81B0X0.png", Animal Channel
-https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+http://183.182.100.241:1938/threstr2/animalplanet/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/18/8r0pEV.png", TLC
 https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/04/HJUUwJ.jpg", DISCOVERY CHANNEL
