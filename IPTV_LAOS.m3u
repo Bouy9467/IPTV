@@ -208,7 +208,7 @@ https://ctrl.laotv.la/live/CartoonClub/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg",Boomerang
 https://m2.ballnaja.com:8443/sling_Disney_Channel/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg", DREAMWORKS
-https://m1.ballnaja.com/DreamWorks/playlist.m3u8|Referer=https://ballnaja.com/
+https://str138.playhd.la/threstr2/animax/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/03/HvcSlv.jpg",HIT MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -216,8 +216,8 @@ https://m2.ballnaja.com:8443/HITS_MOVIES/playlist.m3u8|Referer=https://ballnaja.
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/30/VogXha.jpg",HIT
 https://m2.ballnaja.com:8443/HITS/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
-#EXTVLCOPT:http-referrer=https://laotv.la
-https://ctrl.laotv.la/live/HBO/index.m3u8
+#EXTVLCOPT:http-referrer=https://muanlai.com
+https://str136.playhd.la/threstr2/hbohd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO 
@@ -260,7 +260,7 @@ https://ctrl.laotv.la/live/TSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8ciW0S.png",True Asian More
 https://m1.ballnaja.com/True_Asian_More/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8cgIrQ.png",True Korean More
-https://m1.ballnaja.com/live/True_Korean_More/playlist.m3u8|Referer=https://www.ballnaja.com/
+https://str136.playhd.la/threstr2/thaifilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8cgyNN.jpg",CCM
 https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/10/6PvhlN.png", True Thai Film
@@ -274,10 +274,9 @@ https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8|Referer=htt
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/TureFilm/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/26725370-7374-11ec-91d2-797a50c5a656_webp_320.png",True Film 2
-#EXTVLCOPT:http-referrer=https://ballnaja.com
-https://m1.ballnaja.com/True_Film_2/playlist.m3u8
+https://str138.playhd.la/threstr2/samrujlok/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/4e7e14a5298ec3d74478c57aab11cc1d.png", KMTV
-https://streaming.livescorethai.net/iptv/sd-mtvasia.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://str138.playhd.la/threstr2/mysci/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/e48c89ee4e97a41985569943ee17fc13.png", PARAMOUNT
 https://m2.ballnaja.com:8443/Paramount/playlist.m3u8Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8ciQ0I.png", Rock Extreme
