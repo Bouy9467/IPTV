@@ -74,6 +74,7 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ballthai2/playlist.m3u8
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ballthai3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png",DW
 #EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0125/HLS/V0125.m3u8
-
-
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png",TV5
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0141/HLS/V0141.m3u8
