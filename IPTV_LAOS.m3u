@@ -326,9 +326,13 @@ https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/sky-news.png",Sky NEWS
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/uk-skynews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RT
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png",RT
 #EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/HLS/V0105.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RT Documentary
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/HLS/V0106.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKgfk.png",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://laotv.la
