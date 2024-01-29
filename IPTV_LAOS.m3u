@@ -529,16 +529,16 @@ https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png",Ballthai 1
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/DASH/TL001.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png",Ballthai 2
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/DASH/TL002.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png",Ballthai 3
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/DASH/TL003.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png",Ballthai 4
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL004/DASH/TL004.mpd
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/09/VXcWFJ.png",MUTV
 https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
