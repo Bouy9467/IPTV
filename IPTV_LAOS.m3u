@@ -123,7 +123,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0089/HLS/V0089.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/07/n3hiVq.png",Cartoon network
-https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://str138.playhd.la/threstr2/cartoonnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png",Nick JR
 https://m2.ballnaja.com:8443/NICKJR/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8gdZ0S.png",Nickelodeon
@@ -133,7 +133,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/26/HsnSVN.jpg",Cartoon Club
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg",Boomerang
-https://m2.ballnaja.com:8443/sling_Disney_Channel/playlist.m3u8|Referer=https://ballnaja.com/
+https://str138.playhd.la/threstr2/animax/playlist.m3u
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg", DREAMWORKS
 https://str138.playhd.la/threstr2/animax/playlist.m3u8
 
@@ -160,9 +160,9 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 https://ctrl.laotv.la/live/Cinemax/index.m3u8|Referer=https://laotv.la/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/05/6EeXLf.jpg",AXN
-https://streaming.livescorethai.net/iptv/hd-axn.stream/chunks.m3u8|Referer=https://freetvdd.com/
+https://str136.playhd.la/threstr2/axnhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",Warner TV
-https://streaming.livescorethai.net/iptv/hd-warnertv.stream/chunks.m3u8|Referer=https://freetvdd.com/
+https://str136.playhd.la/threstr2/warnertv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/23/8vrYZD.jpg", KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
