@@ -1,4 +1,57 @@
 #EXTM3U 13.12.2023
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvhQWb.png",NBT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0001/HLS/B0001.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvh0De.png",TPBS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0014/HLS/B0014.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvkrFf.png",ALTV
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvfpDq.png",TV5 HD
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0007/HLS/B0007.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvkm2I.png",TPTV
+https://livestream.parliament.go.th/lives/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png", T-Sports7
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0129/HLS/B0129.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv3AwP.jpg",TNN16
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0053/HLS/V0053.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9fx0.png",JKN 18
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0010/HLS/B0010.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9Dxy.png",Nation TV
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0021/HLS/B0021.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png",Workpoint
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0015/HLS/B0015.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png",True4U
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0054/HLS/B0054.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTsqk.png",GMM 25
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0019/HLS/B0019.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvT6gN.png",CH8
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0006/HLS/B0006.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTrFQ.png",MONO 29
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0016/HLS/B0016.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTXGg.png",MCOT HD
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0008/HLS/B0008.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvK0fn.png",ONE31 HD
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0012/HLS/B0012.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",Thairath TV
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0013/HLS/B0013.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTMof.png",3 HD
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0003/HLS/B0003.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTdrE.png",AmarinTV HD
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0017/HLS/B0017.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv9MNk.png",CH7 HD
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0018/HLS/B0018.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uv1LSk.png",PPTV HD
+#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
+https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0022/HLS/B0022.m3u8
+
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png",Ballthai 1
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/DASH/TL001.mpd
