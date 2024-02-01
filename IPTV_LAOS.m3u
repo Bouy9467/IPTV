@@ -129,9 +129,9 @@ https://m2.ballnaja.com:8443/NICKJR/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8gdZ0S.png",Nickelodeon
 http://strc138.playhd.la/threstr2/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/09/ntW8og.png",Boomerang
-https://ctrl.laotv.la/live/Boomerang/index.m3u8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/26/HsnSVN.jpg",Cartoon Club
-https://ctrl.laotv.la/live/CartoonClub/index.m3u8
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg",Boomerang
 https://m2.ballnaja.com:8443/sling_Disney_Channel/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg", DREAMWORKS
@@ -207,7 +207,7 @@ https://str138.playhd.la/threstr2/mysci/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/e48c89ee4e97a41985569943ee17fc13.png", PARAMOUNT
 https://m2.ballnaja.com:8443/Paramount/playlist.m3u8Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8ciQ0I.png", Rock Extreme
-https://m1.ballnaja.com/ROCK_Extreme/playlist.m3u8|Referer=https://www.ballnaja.com/
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0033/DASH/V0033.mpd
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8ci5ye.jpg", GEM
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/72fbac840bae5b33138140931f9a4f75.jpg", TRUE XZYTE
@@ -215,9 +215,9 @@ https://str136.playhd.la/threstr2/truexzyte/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/73d68e549a0acc538d663343cd46c541.jpg", TRUE SPARK JUMP
 https://m1.ballnaja.com/True_Spark_Play/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1, tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvb.png", TVB
-https://streaming.livescorethai.net/iptv/sd-tvb.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0159/DASH/V0159.mpd
 #EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2022/07/08/VHXkjQ.png", true INSIDE
-https://streaming.livescorethai.net/iptv/sd-inside.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0036/DASH/V0036.mpd
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/28/H6b0St.jpg", UNIVERSAL
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/202306140918/LC1/index.m3u8
