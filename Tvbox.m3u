@@ -11,47 +11,6 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/DASH/TL003.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png",Ballthai 4
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL004/DASH/TL004.mpd
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 1
-http://supersonictv.live:8080/419094/970686/86863
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 2
-http://supersonictv.live:8080/419094/970686/86861
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 3
-http://supersonictv.live:8080/419094/970686/86869
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 4
-http://supersonictv.live:8080/419094/970686/86862
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 5
-http://supersonictv.live:8080/419094/970686/86864
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 6
-http://supersonictv.live:8080/419094/970686/86865
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 7
-http://supersonictv.live:8080/419094/970686/86866
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 8
-http://supersonictv.live:8080/419094/970686/86867
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 9
-http://supersonictv.live:8080/419094/970686/86868
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 10
-http://supersonictv.live:8080/419094/970686/86869
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 11
-http://supersonictv.live:8080/419094/970686/86870
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 12
-http://supersonictv.live:8080/419094/970686/86871
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 13
-http://supersonictv.live:8080/419094/970686/86872
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 14
-http://supersonictv.live:8080/419094/970686/86873
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 15
-http://supersonictv.live:8080/419094/970686/86874
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 17
-http://supersonictv.live:8080/419094/970686/86875
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 18
-http://supersonictv.live:8080/419094/970686/86876
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 19
-http://supersonictv.live:8080/419094/970686/86877
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 20
-http://supersonictv.live:8080/419094/970686/86878
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 21
-http://supersonictv.live:8080/419094/970686/86879
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",bein sport 1
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
@@ -148,19 +107,44 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truetennis/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://dooball2you.com/wp-content/uploads/2021/10/golfpng.png",GOLF
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp",Ballthai 1
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ballthai1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a0c49a0-30e1-11ee-b220-4544ede97b74_webp_original.webp",Ballthai 2
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ballthai2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/8a3b21d0-30e1-11ee-a53e-b3f87dc8ba1e_webp_original.webp",Ballthai 3
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/ballthai3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png",DW
-#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0140/HLS/V0140.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png",TV5
-#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
-https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0141/HLS/V0141.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 1
+http://supersonictv.live:8080/419094/970686/86863
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 2
+http://supersonictv.live:8080/419094/970686/86861
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 3
+http://supersonictv.live:8080/419094/970686/86869
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 4
+http://supersonictv.live:8080/419094/970686/86862
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 5
+http://supersonictv.live:8080/419094/970686/86864
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 6
+http://supersonictv.live:8080/419094/970686/86865
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 7
+http://supersonictv.live:8080/419094/970686/86866
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 8
+http://supersonictv.live:8080/419094/970686/86867
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 9
+http://supersonictv.live:8080/419094/970686/86868
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 10
+http://supersonictv.live:8080/419094/970686/86869
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 11
+http://supersonictv.live:8080/419094/970686/86870
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 12
+http://supersonictv.live:8080/419094/970686/86871
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 13
+http://supersonictv.live:8080/419094/970686/86872
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 14
+http://supersonictv.live:8080/419094/970686/86873
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 15
+http://supersonictv.live:8080/419094/970686/86874
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 17
+http://supersonictv.live:8080/419094/970686/86875
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 18
+http://supersonictv.live:8080/419094/970686/86876
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 19
+http://supersonictv.live:8080/419094/970686/86877
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 20
+http://supersonictv.live:8080/419094/970686/86878
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/97/609/png-clipart-supersport-dstv-television-channel-others-miscellaneous-television.png",Supersport 21
+http://supersonictv.live:8080/419094/970686/86879
