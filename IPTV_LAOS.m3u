@@ -13,7 +13,7 @@ http://183.182.106.85:8201/PSTV/index.m3u8
 http://183.182.106.85:8201/LATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/57ae6377-0499-442c-8f5a-802802e5001b.png",Laostar
 #EXTVLCOPT:http-referrer=https://laotv.la
-http://183.182.106.85:8201/laoStar/index.m3u8
+http://183.182.106.85:8201/LaoStar/index.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/bba594f8-4ea3-4ea9-bd92-1ceeec437852.png",VTE9
 #EXTVLCOPT:http-referrer=https://laotv.la
 http://183.182.106.85:8201/VTE9/index.m3u8
