@@ -162,7 +162,7 @@ https://ctrl.laotv.la/live/Cinemax/index.m3u8|Referer=https://laotv.la/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/05/6EeXLf.jpg",AXN
 https://str136.playhd.la/threstr2/axnhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",Warner TV
-https://str136.playhd.la/threstr2/warnertv/playlist.m3u8
+https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/23/8vrYZD.jpg", KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://210.210.155.35:80/dr9445/h/h07/01.m3u8
