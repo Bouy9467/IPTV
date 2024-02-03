@@ -73,9 +73,6 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/B0016/HLS/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTrFQ.png",MONO 29
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
-#EXTINF:-1 tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/Mono29plus.webp",MONO29 Plus
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com
-https://m1.ballnaja.com/ais_MONO29_Plus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/09/uvTXGg.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 11; Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Safari/537.36 Edg/100.0.1185.44
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmcothd3/index.m3u8
