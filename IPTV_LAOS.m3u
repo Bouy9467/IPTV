@@ -82,7 +82,7 @@ https://m1.ballnaja.com:8443/True_Explore_Sci/playlist.m3u8|Referer=https://www.
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/d7b14a553e3e81b38dc7068e2e527759.jpg", BBC LIFESTYLE
 https://m1.ballnaja.com:8443/ais_BBC_Lifestyle/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/02/nYeu9q.png",BBC Earth
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/chunks.m3u8|Referer=https://freetvdd.com/
+https://str138.playhd.la/threstr2/bbcearth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png", Lifetime
 https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/01/81B0X0.png", Animal Channel
