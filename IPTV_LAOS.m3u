@@ -378,7 +378,6 @@ https://smart-tv.livedoomovies.com:4431/02_2sporthd1_720p/chunklist.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThYU1.png",True Sports 1
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThhyb.png",True Sports 2
 http://183.182.100.240:1936/threstr2/truesporthd2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThhyb.png",True Sports 2
@@ -389,7 +388,6 @@ https://smart-tv.livedoomovies.com:4431/02_2sporthd2_720p/chunklist.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThhyb.png",True Sports 2
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://edge1.laotv.la/live/TrueSport2/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rTh3Tf.png",True Sports 3
 http://183.182.100.240:1936/threstr2/truesporthd3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rTh3Tf.png",True Sports 3
@@ -403,7 +401,6 @@ https://smart-tv.livedoomovies.com:4431/02_2sporthd3_720p/chunklist.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rTh3Tf.png",True Sports 3
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThwBz.png",True Sports 4
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8
@@ -412,7 +409,6 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd4/playlist.m3u8
 https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThwBz.png",True Sports 4
 https://smart-tv.livedoomovies.com:4431/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com/
-
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThK8R.png",True Sports 5
 http://183.182.100.240:1936/threstr2/truesport5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThK8R.png",True Sports 5
@@ -420,7 +416,6 @@ http://183.182.100.240:1936/threstr2/truesport5/playlist.m3u8
 https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThK8R.png",True Sports 5
 https://dolive.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/siamsport-11/playlist.m3u8|Referer=https://dooball678.com/
-
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThi2Z.png",True Sports 7
 http://183.182.100.240:1936/threstr2/truesport7/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThi2Z.png",True Sports 7
