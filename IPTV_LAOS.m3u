@@ -338,6 +338,8 @@ https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
+http://183.182.100.240:1936/threstr2/bein1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
@@ -349,6 +351,8 @@ https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
 https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com/
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN SPORT 2
+http://183.182.100.240:1936/threstr2/bein2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN SPORT 2
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
