@@ -158,20 +158,19 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
-https://ctrl.laotv.la/live/Cinemax/index.m3u8|Referer=https://laotv.la/
+https://code.vthanhtivi.pw/getlink/tvfree/cinemax/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/05/6EeXLf.jpg",AXN
 https://str136.playhd.la/threstr2/axnhd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",Warner TV
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/23/8vrYZD.jpg", KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+http://210.210.155.37/dr9445/h/h07/01.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/03/6qQ0xa.jpg", Thrill
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://bananatv.org:25461/play/wVoZP52jvqdylF92agMAl1JiwTJidNDIoz_Y5wIOvLA/ts
+https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zpRvW.png",KBS world
-#EXTVLCOPT:http-referrer=https://laotv.la
-https://ctrl.laotv.la/live/KBS/index.m3u8
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/3BB_Asian.webp",3BB Asian
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0039/HLS/V0039.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/16/8u3jeq.png",True MOVIE HITS
