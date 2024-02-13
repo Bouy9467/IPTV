@@ -459,6 +459,9 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/DASH/TL003.mpd
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL004/DASH/TL004.mpd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 1
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL001/DASH/JL001.mpd
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 2
+#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL005/DASH/TL005.mpd
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/09/VXcWFJ.png",MUTV
