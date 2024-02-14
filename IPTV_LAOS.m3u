@@ -447,28 +447,28 @@ https://streaming.livescorethai.net/iptv/hd-golf.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png",Ballthai 1
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/DASH/TL001.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png",Ballthai 2
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/DASH/TL002.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png",Ballthai 3
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/DASH/TL003.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png",Ballthai 4
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL004/DASH/TL004.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 1
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL001/DASH/JL001.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL001/HLS/JL001.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 2
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL002/DASH/JL002.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL002/HLS/JL002.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 3
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL003/DASH/JL003.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL003/HLS/JL003.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 4
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL004/DASH/JL004.mpd
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL004.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/09/VXcWFJ.png",MUTV
 https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
