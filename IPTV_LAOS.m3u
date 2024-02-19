@@ -228,7 +228,7 @@ http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-topnews.png",TOPNEWS
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0033/HLS/V0033.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/26/6wgmpQ.png",CNN
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png",CNN
 https://streaming.livescorethai.net/iptv/hd-cnn.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H0xBi0.jpg",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
@@ -238,14 +238,14 @@ https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/playlist.m3u8|Refer
 https://streaming.livescorethai.net/iptv/uk-foxnews.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/cnbc.png",CNBC
 https://streaming.livescorethai.net/iptv/sd-cnbc.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/H01xpy.jpg",CNA
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",CNA
 #EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/HLS/V0122.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/23/8vrncy.png",NHK World
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png",NHK World
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/16/8uN80n.png",CGTN
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png",CGTN
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/HLS/V0174.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/16/8uSXOQ.png",BBC NEWS
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png",BBC NEWS
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/playlist.m3u8
