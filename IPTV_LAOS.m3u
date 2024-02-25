@@ -92,7 +92,7 @@ https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8|Referer=htt
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVERY CHANNEL
 #EXTVLCOPT:http-referrer=https://muanlai.com
 https://str138.playhd.la/threstr2/discovery/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8ci30b.png", DISCOVERY Asia
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png", DISCOVERY Asia
 https://streaming.livescorethai.net/iptv/hd-discovery.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/26/6IIsLy.jpg", HISTORY HD
 https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8|Referer=https://freetvdd.com/
@@ -122,18 +122,18 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0089.png", Topline
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0089/HLS/V0089.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/07/n3hiVq.png",Cartoon network
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon network
 https://str138.playhd.la/threstr2/cartoonnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png",Nick JR
 https://m2.ballnaja.com:8443/NICKJR/playlist.m3u8|Referer=https://ballnaja.com/
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8gdZ0S.png",Nickelodeon
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 http://strc138.playhd.la/threstr2/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/09/ntW8og.png",Boomerang
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0104/DASH/V0104.mpd
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/26/HsnSVN.jpg",Cartoon Club
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",Cartoon Club
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0100/DASH/V0100.mpd
-#EXTINF:-1 tvg-logo="https://www.img.in.th/images/60403245640f517a38c54bf2a5387e6e.jpg",Boomerang
-https://str138.playhd.la/threstr2/animax/playlist.m3u
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
+https://str138.playhd.la/threstr2/animax/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg", DREAMWORKS
 https://str138.playhd.la/threstr2/animax/playlist.m3u8
 
@@ -336,39 +336,39 @@ https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.livedoomovies.com
 https://sport.livedoomovies.com:4431/02_PremierHD5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",beIN SPORT 1
 http://183.182.100.240:1936/threstr2/bein1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",beIN SPORT 1
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",beIN SPORT 1
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",beIN SPORT 1
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",beIN SPORT 1
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png",beIN SPORT 1
 https://smart-tv.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN SPORT 2
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",beIN SPORT 2
 http://183.182.100.240:1936/threstr2/bein2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN SPORT 2
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",beIN SPORT 2
 #EXTVLCOPT:http-referrer=https://laotv.la
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN SPORT 2
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",beIN SPORT 2
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",beIN SPORT 2
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_2.png",beIN SPORT 2
 #EXTVLCOPT:http-referrer=https://dooball2you.com
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",beIN SPORT 3
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",beIN SPORT 3
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",beIN SPORT 3
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",beIN SPORT 3
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",beIN SPORT 3
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",beIN SPORT 3
 https://smart-tv.livedoomovies.com:4431/02_epl2_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com/
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/02/17/rThYU1.png",True Sports 1
