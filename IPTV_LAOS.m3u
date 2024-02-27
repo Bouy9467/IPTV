@@ -457,6 +457,18 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png",Ballthai 4
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png",Ballthai 5
+#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png",Ballthai 6
+#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png",Ballthai 7
+#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL008.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png",Ballthai 8
+#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
+https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 1
 #EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL001/HLS/JL001.m3u8
