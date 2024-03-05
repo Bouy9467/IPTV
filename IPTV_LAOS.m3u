@@ -170,7 +170,7 @@ http://210.210.155.37/dr9445/h/h07/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zpRvW.png",KBS world
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://program-schedule.s3.ap-southeast-1.amazonaws.com/stream/3BB_Asian.webp",3BB Asian
 https://49-231-34-109-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0039/HLS/V0039.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/16/8u3jeq.png",True MOVIE HITS
