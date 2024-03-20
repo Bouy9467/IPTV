@@ -160,7 +160,7 @@ http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shtJbESw0qm-noB9MnrvAQ0c/ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 http://fpt.vthanhtivi.pw/cinemax/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/05/6EeXLf.jpg",AXN
-https://str136.playhd.la/threstr2/axnhd/playlist.m3u8
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://www.img04.xyz/assets/img/ch_logo/hd-warnertv.png",Warner TV
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/23/8vrYZD.jpg", KIX HD
@@ -190,6 +190,7 @@ https://str136.playhd.la/threstr2/thaifilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8cgyNN.jpg",CCM
 https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp", True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp", True Film Asia
