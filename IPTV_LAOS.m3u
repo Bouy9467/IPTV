@@ -186,7 +186,7 @@ https://ctrl.laotv.la/live/TSHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 https://m1.ballnaja.com/True_Asian_More/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8cgIrQ.png",True Korean More
-https://str136.playhd.la/threstr2/thaifilm/playlist.m3u8
+http://183.182.100.240:1936/threstr2/thaifilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDI0IDI6MTc6NDEgUE0maGFzaF92YWx1ZT01Y09HQjQwRGJ0OTVIRjFuM2tDTVF3PT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8cgyNN.jpg",CCM
 https://streaming.livescorethai.net/iptv/sd-celestial.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp", True Thai Film
