@@ -144,7 +144,7 @@ https://m2.ballnaja.com:8443/HITS_MOVIES/playlist.m3u8|Referer=https://ballnaja.
 https://m2.ballnaja.com:8443/HITS/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-referrer=https://muanlai.com
-https://str136.playhd.la/threstr2/hbohd/playlist.m3u8
+http://183.182.100.240:1936/threstr2/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDI0IDI6MjM6MTUgUE0maGFzaF92YWx1ZT1ZMW9ONjllRFFUZlZIR2d5NTVlMXNBPT0mdmFsaWRtaW51dGVzPTEyMA==
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO 
