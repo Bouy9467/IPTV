@@ -143,7 +143,7 @@ https://m2.ballnaja.com:8443/HITS_MOVIES/playlist.m3u8|Referer=https://ballnaja.
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/30/VogXha.jpg",HIT
 https://m2.ballnaja.com:8443/HITS/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
-http://strc136.playhd.la/threstr2/hbohd/playlist.m3u8
+http://strc136.playhd.la/threstr2/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yNi8yMDI0IDEwOjE1OjQ0IEFNJmhhc2hfdmFsdWU9TTFicDFQZ0p2emw5VkgvZzU3b0xDZz09JnZhbGlkbWludXRlcz0xMjA=
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO 
