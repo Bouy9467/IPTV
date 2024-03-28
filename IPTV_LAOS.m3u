@@ -488,7 +488,7 @@ https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL003/HLS/JL003.m3u8
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL004.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/kpm-vietnam.png",K+ Sport1
-https://edge1.laotv.la/live/k+Sport1/index.m3u8
+https://edge1.laotv.la/live/K+Sport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest?cb=20231208053311&path-prefix=vi",K+ Sport2
 https://edge1.laotv.la/live/K+Sport2/index.m3u8
 
