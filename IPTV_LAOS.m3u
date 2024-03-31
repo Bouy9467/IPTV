@@ -123,7 +123,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC58/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0089/HLS/V0089.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon network
-https://streaming.livescorethai.net/iptv/sd-cartoonnetwork.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://edge1.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png",Nick JR
 https://m2.ballnaja.com:8443/NICKJR/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
