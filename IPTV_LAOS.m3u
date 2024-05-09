@@ -88,11 +88,13 @@ http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/23/6mYg3y.jpg", Love Nature 
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/28/8hUDqe.png", True Explore Wild
-https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUyOjAzIEFNJmhhc2hfdmFsdWU9by9WYkIwYjBYS0J5RElmUlF3a25UQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzEyODgx
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/03/HvZVca.png",True Explore Life
 https://m1.ballnaja.com:8443/True_Explore_Life/playlist.m3u8|Referer=https://www.ballnaja.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/03/HvZH7f.png",True Explore Sci
-https://m1.ballnaja.com:8443/True_Explore_Sci/playlist.m3u8|Referer=https://www.ballnaja.com/
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjQ3IEFNJmhhc2hfdmFsdWU9bHJFeVJFcGJ5Y1FhWDNRRFNqcnlaQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE5MzU3
 #EXTINF:-1 tvg-logo="https://s.muanlai.com//images/550/static//live_tv_img/0/0/0/436_large.jpg", food network
 https://streaming.livescorethai.net/iptv/hd-foodeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/02/nYeu9q.png",BBC Earth
@@ -120,7 +122,7 @@ https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Refer
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0151/HLS/V0151.m3u8
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC8/index.m3u8
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png", MYSCI
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0152/HLS/V0152.m3u8
