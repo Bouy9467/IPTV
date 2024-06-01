@@ -141,17 +141,17 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0089/HLS/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon network
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/cartoonnetwork/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png",Nick JR
-https://m2.ballnaja.com:8443/NICKJR/playlist.m3u8|Referer=https://ballnaja.com/
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
-http://strc138.playhd.la/threstr2/nickelodeon/playlist.m3u8
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nickelodeon/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/09/ntW8og.png",Boomerang
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0104/HLS/V0104.m3u8
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nextkid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",Cartoon Club
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/HLS/V0100.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
 https://str138.playhd.la/threstr2/animax/playlist.m3u8
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg", DREAMWORKS
-https://str138.playhd.la/threstr2/animax/playlist.m3u8
+https://cdn-mfixer-20g.ndos.stream:8082/mfixer/dreamworks/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/03/HvcSlv.jpg",HIT MOVIE
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
