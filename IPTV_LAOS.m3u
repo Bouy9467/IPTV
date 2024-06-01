@@ -119,6 +119,7 @@ https://streaming.livescorethai.net/iptv/sd-dmaxeng.stream/playlist.m3u8|Referer
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",afn
 https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png", ANIMALSHOW
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0153/HLS/V0153.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
