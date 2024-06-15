@@ -225,7 +225,8 @@ https://wacthstream.com/stream_live/240_True_Series./playlist.m3u8?wmsAuthSign=c
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/237_TrueFilmAsia./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
 #EXTINF:-1 tvg-logo="https://www.img.in.th/images/e48c89ee4e97a41985569943ee17fc13.png", PARAMOUNT
-https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/337_Rock_Entertainment/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8ciQ0I.png", Rock Extreme
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://wacthstream.com/stream_live/338_Rock_Extreme/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDY6NDIgUE0maGFzaF92YWx1ZT1xcVcyS3h6cU1xeFVFR3dUb3JjUHFBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxOTU=
@@ -466,57 +467,11 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-nba.png",NBA
 https://smart-tv.livedoomovies.com:4431/02_nbahd_720p/chunklist.m3u8|Referer=https://www.livedoomovies.com
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/11/Vppkdf.jpg",TENNIS
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truetennis/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/GolfChannel.png",GOLF channel
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/HLS/V0130.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/670_Tennis/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/GolfChannel.png",GOLF Thailand
-#EXTVLCOPT:http-referrer=https://www.dooball2you.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/golf2/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_1.png",Ballthai 1
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL001/HLS/TL001.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_2.png",Ballthai 2
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL002/HLS/TL002.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_3.png",Ballthai 3
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL003/HLS/TL003.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_4.png",Ballthai 4
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL004/HLS/TL004.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_5.png",Ballthai 5
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL005/HLS/TL005.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_6.png",Ballthai 6
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL006/HLS/TL006.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_7.png",Ballthai 7
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL007/HLS/TL007.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//BALLTHAI_8.png",Ballthai 8
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/TL008/HLS/TL008.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT1.png",SIAMSPORT 1
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL001/HLS/JL001.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT2.png",SIAMSPORT 2
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL002/HLS/JL002.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT3.png",SIAMSPORT 3
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL003/HLS/JL003.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//SIAMSPORT4.png",SIAMSPORT 4
-#EXTVLCOPT:http-referrer=https://www.aisplay.ais.co.th/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/JL004/HLS/JL004.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/kpm-vietnam.png",K+ Sport1
-#EXTVLCOPT:http-referrer=https://laotv.la
-https://edge1.laotv.la/live/K+Sport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest?cb=20231208053311&path-prefix=vi",K+ Sport2
-#EXTVLCOPT:http-referrer=https://laotv.la
-https://edge1.laotv.la/live/K+Sport2/index.m3u8
+#EXTVLCOPT:http-referrer=https://wacth.tv 
+https://wacthstream.com/stream_live/676_golfplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMC8yMDI0IDI6NDU6MjYgQU0maGFzaF92YWx1ZT02L3c3NGFVZ1l0V2NEWFovNWI1Y1FBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjYwOTQ=
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/07/09/VXcWFJ.png",MUTV
 https://bcovlive-a.akamaihd.net/rf30937cd87114adaae6e83d15d5f6808/eu-west-1/eu-west-1/6058004203001/profile_0/chunklist.m3u8
@@ -553,15 +508,6 @@ https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Sport%20Klub%202%20S
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/02/Hpo4zW.jpg",SK3HD
 #EXTVLCOPT:http-referrer=https://dooball678.com
 https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Sport%20Klub%203%20Serbia/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/27/VEUXkq.jpg",Diema Sport1
-#EXTVLCOPT:http-referrer=https://dooball678.com
-https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Diema%20Sport%202%20Bulgaria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/Diema%20Sport%202.png",Diema Sport2
-#EXTVLCOPT:http-referrer=https://dooball678.com
-https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Diema%20Sport%202%20Bulgaria/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api-soccer.iamtheme.com/images/tv/AopcTE0QyFk5BZf6Mqqpo4ma1vMf208Diema_Sport_3.png",Diema Sport3
-#EXTVLCOPT:http-referrer=https://dooball678.com
-https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/Diema%20Sport%203%20Bulgaria/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/21/6N4qxy.png",Sport TV1 HD
 #EXTVLCOPT:http-referrer=https://dooball678.com
@@ -607,25 +553,6 @@ https://streaming.livescorethai.net/iptv/uk-skysports-cricket.stream/chunks.m3u8
 https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8|Referer=https://livescorethai.net/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Sky_Sport_Arena_-_Logo_2020.svg",Skysport Arena
 https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/chunks.m3u8|Referer=https://livescorethai.net/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport premium 1
-https://hls.streambtw.com/live/stream_1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein sport premium 2
-https://hls.streambtw.com/live/stream_6.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",Bein sport premium 3
-https://hls.streambtw.com/live/stream_7.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport 1 TU
-#EXTVLCOPT:http-referrer=https://dooball678.com
-https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/beIN%20Sport%201%20Turkey/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein sport 2 TU
-#EXTVLCOPT:http-referrer=https://dooball678.com
-https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/beIN%20Sport%202%20Turkey/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/02/HdrXsQ.png",Bein sport 3 TU
-#EXTVLCOPT:http-referrer=https://dooball678.com
-https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/beIN%20Sport%203%20Turkey/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/10/HtCpVv.jpg",Bein sport 4 TU
-#EXTVLCOPT:http-referrer=https://dooball678.com
-https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/beIN%20Sport%204%20Turkey/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport 1
 https://streaming.livescorethai.net/iptv/hd-bein1.stream/playlist.m3u8|Referer=https://livescorethai.net/
@@ -688,9 +615,3 @@ https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/digisport4/playlist.m3u8
 https://streaming.livescorethai.net/iptv/us-foxsports1.stream/playlist.m3u8|Referer=https://livescorethai.net
 #EXTINF: -1 tvg-logo="https://www.img.in.th/images/a21c1b6cb008a54dc04b446bed649bf3.png", FOX SPORTS2
 https://streaming.livescorethai.net/iptv/us-foxsports2.stream/playlist.m3u8|Referer=https://livescorethai.net
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/UEKeOOuaxmvrSpE5XxmOgqjJRZ3JewEcplus.png",Canada Sport3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dooball678.com
-https://switch.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/canal-sport-3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/74ZeG7EFenhnZ4wrtKcpRxftBzP4CZ0MAX_Sport_3_Bulgaria.png",Max Sport 3
-https://ctrl.laotv.la/tokenlive/TSport1/manifest.mpd?va=1713255940&token=927674f87fd7743bdfa3
