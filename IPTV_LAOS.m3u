@@ -1,17 +1,4 @@
-#EXTM3U 01.01.2024
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/5c2f2ef7-fcc2-439b-a0d4-dd7356f66cb2.png",LNTV1
-http://dinhdong.ddns.net:13579/udp/225.1.3.1:30120
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/images14613148aad83aed.png",LNTV3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://dinhdong.ddns.net:13579/udp/225.1.3.2:30120
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/a67aa62c-dd80-4d37-8925-6ed364a8c753.png",LAOPSTV
-http://dinhdong.ddns.net:13579/udp/225.1.3.3:30120
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/69b385d8-6fed-4b0d-86af-658100d2a389.png",LATV
-http://dinhdong.ddns.net:13579/udp/225.1.3.4:30120
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/57ae6377-0499-442c-8f5a-802802e5001b.png",Laostar
-http://dinhdong.ddns.net:13579/udp/225.1.3.5:30120
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/bba594f8-4ea3-4ea9-bd92-1ceeec437852.png",VTE9
-http://dinhdong.ddns.net:13579/udp/225.1.3.6:30120
+#EXTM3U 01.07.2024
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png",NBT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w2122002784_b3128000_DVR.m3u8?null
