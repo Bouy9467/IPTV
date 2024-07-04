@@ -46,24 +46,24 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/ch83/index.m3u8
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chmono293/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png",MCOT HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",ONE31 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ubn-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+http://appdootv2.dootvde.com:1935/live/50022_one_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",Thairath TV
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
+http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/26/6M7t7J.jpg", NASA
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
