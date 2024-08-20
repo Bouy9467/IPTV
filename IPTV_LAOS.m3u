@@ -150,22 +150,22 @@ https://m2.ballnaja.com:8443/HITS_MOVIES/playlist.m3u8|Referer=https://ballnaja.
 https://m2.ballnaja.com:8443/HITS/playlist.m3u8|Referer=https://ballnaja.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+https://media.wacthstream.com/stream_live/3BB_HBO/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO 
 http://ip168.homeip.net:8086/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/3BB_HBOhits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+https://media.wacthstream.com/stream_live/3BB_HBOhits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",HBO signature
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+https://media.wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO family
 http://bananatv.org:25461/play/CgNBEy3ebR4WXeZSBw6shsAu10kReTUVEG2yrpsyZZo/ts
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/3BB_CINEMAX./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+https://media.wacthstream.com/stream_live/3BB_CINEMAX./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 http://ip168.homeip.net:8086/cinemax.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/05/6EeXLf.jpg",AXN
@@ -181,7 +181,7 @@ https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8|Referer=htt
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0159.png",มังกร
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/236_TrueThaiFilmHD./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+https://media.wacthstream.com/stream_live/236_TrueThaiFilmHD./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/16/8u3jeq.png",True MOVIE HITS
 https://streaming.livescorethai.net/iptv/sd-moviehits.stream/chunks.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/06/03/HvZr8b.png",true series
@@ -191,7 +191,7 @@ https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8|Referer=ht
 https://media.wacthstream.com/stream_live/240_True_Series./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 #EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+https://media.wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8cgIrQ.png",True Korean More
 https://media.wacthstream.com/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/03/8cgyNN.jpg",CCM
