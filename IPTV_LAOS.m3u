@@ -286,7 +286,7 @@ https://bcovlive-a.akamaihd.net:443/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6
 
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKgfk.png",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://dooballfree.com/
-https://dolive.thaim3u.com/xstream/siamsport-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyNCAxMDozMjoxNSBBTSZoYXNoX3ZhbHVlPS9LVmIzdlBSQ3NNSCtZamFGRmxSNnc9PSZ2YWxpZG1pbnV0ZXM9NjA=
+https://dolive.thaim3u.com/xstream/siamsport-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKgfk.png",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
@@ -300,8 +300,8 @@ https://streaming.livescorethai.net/iptv/epl-1.stream/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.dooball678.com 
 https://dolive.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/siamsport-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKiqv.png",True Premier Football 2
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/602_eng2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
+#EXTVLCOPT:http-referrer=https://dooballfree.com/
+https://dolive.thaim3u.com/xstream/siamsport-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKiqv.png",True Premier Football 2
 #EXTVLCOPT:http-referrer=https://livescorethai.net
 https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8
