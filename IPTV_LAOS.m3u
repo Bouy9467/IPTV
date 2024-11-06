@@ -570,6 +570,7 @@ https://streaming.livescorethai.net/iptv/uk-skysports-action.stream/chunks.m3u8|
 https://streaming.livescorethai.net/iptv/uk-skysports-arena.stream/chunks.m3u8|Referer=https://livescorethai.net/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport 1
+#EXTVLCOPT:http-referrer=https://ballmun.com
 https://cdn-stream.lnwza007.com/live/hd1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png",Bein sport 2
 https://cdn-stream.lnwza007.com/live/hd2/playlist.m3u8
@@ -578,11 +579,12 @@ https://cdn-stream.lnwza007.com/live/hd3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/10/HtCpVv.jpg",Bein sport 4
 https://cdn-stream.lnwza007.com/live/hd4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/10/Ht6Ypl.png",Bein sport 5
-https://cdn-stream.lnwza007.com/live/hd8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/10/HtuSYy.png",Bein sport 6
 https://cdn-stream.lnwza007.com/live/hd5/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/09/07/alqCo1.jpg",Bein sport 7
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/05/10/HtuSYy.png",Bein sport 6
 https://cdn-stream.lnwza007.com/live/hd6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/09/07/alqCo1.jpg",Bein sport 7
+#EXTVLCOPT:http-referrer=https://ballmun.com
+https://cdn-stream.lnwza007.com/live/hd8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png",Bein sport 1 FR
 https://streaming.livescorethai.net/iptv/fr-bein1hd.stream/playlist.m3u8|Referer=https://freetvdd.com/
