@@ -284,20 +284,11 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/HLS/
 #EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
 https://bcovlive-a.akamaihd.net:443/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1 4k
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://cdn1.googlecdn.live/4k/epl1_sd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football FHD
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn1.googlecdn.live/dooballx/epl1_sd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://dooballfree.com/
 https://dolive.thaim3u.com/xstream/siamsport-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
+https://live444.xyz/stream/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/playlist.m3u8
@@ -311,8 +302,7 @@ https://switch.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-1/playlist
 #EXTVLCOPT:http-referrer=https://dooballfree.com/
 https://dolive.thaim3u.com/xstream/siamsport-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013336.png",True Premier Football 2
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8
+https://live444.xyz/stream/3/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013336.png",True Premier Football 2
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/playlist.m3u8
@@ -326,8 +316,7 @@ https://switch.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-2/playlist
 #EXTVLCOPT:http-referrer=https://dooballfree.com/
 https://dolive.thaim3u.com/xstream/siamsport-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000013337.webp",True Premier Football 3
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/bsb-epl3.stream/playlist.m3u8
+https://live444.xyz/stream/4/index.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000013337.webp",True Premier Football 3
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8
@@ -341,8 +330,7 @@ https://switch.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-3/playlist
 #EXTVLCOPT:http-referrer=https://dooballfree.com/
 https://dolive.thaim3u.com/xstream/siamsport-4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013335.png",True Premier Football 4
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8
+https://live444.xyz/stream/5/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013335.png",True Premier Football 4
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/playlist.m3u8
@@ -356,8 +344,7 @@ https://switch.thaim3u.com/ABjlZx5Y2zEBfftzydK1yQAxgm7NqqLY/siamsport-4/playlist
 #EXTVLCOPT:http-referrer=https://dooballfree.com/
 https://dolive.thaim3u.com/xstream/siamsport-5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013338.png",True Premier Football 5
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
+https://live444.xyz/stream/6/index.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013338.png",True Premier Football 5
 #EXTVLCOPT:http-referrer=https://www.dooball2you.com/
 https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/playlist.m3u8
