@@ -74,8 +74,6 @@ https://media.wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8??wm
 https://streaming.livescorethai.net/iptv/hd-foodeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/02/nYeu9q.png",BBC Earth
 https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/lifetime.png", Lifetime
-https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png", Animal Channel
 https://streaming.livescorethai.net/iptv/sd-animalplaneteng.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png", TLC
@@ -115,12 +113,8 @@ https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0089/HLS/
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/449_Carton_Netwrk/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/cartoonnetwork/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/01/rOmchu.png",Nick JR
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nickjr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/09/ntW8og.png",Boomerang
-https://cdn-mfixer-20g.ndos.stream:8082/mfixer/nextkid/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",Cartoon Club
 https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0100/HLS/V0100.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
@@ -152,11 +146,6 @@ http://ip168.homeip.net:8086/cinemax.m3u8
 https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner TV
 https://streaming.livescorethai.net/iptv/hd-warnertv.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/04/23/8vrYZD.jpg", KIX HD
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://210.210.155.37/dr9445/h/h07/01.m3u8
-#EXTINF:-1 tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvn.png", TvN
-https://streaming.livescorethai.net/iptv/hd-tvn.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zpRvW.png",KBS world
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/04/11/19b4bd2a-750c-4ee6-9d41-5080e1310bc3_original.png",มังกร
