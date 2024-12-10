@@ -178,54 +178,10 @@ https://dookeela.live/live-tv/truefilm2
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dookeela.live/live-tv/truex-zyte
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp", TRUE SPARK JUMP
-https://m1.ballnaja.com/True_Spark_Play/playlist.m3u8|Referer=https://www.ballnaja.com/
-#EXTINF:-1, tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvb.png", TVB
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://dookeela.live/live-tv/truesparkplay
+#EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png", TVB
 https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://sv1.picz.in.th/images/2022/07/08/VHXkjQ.png", true INSIDE
-#EXTVLCOPT:http-referrer=https://wacth.tv
-https://media.wacthstream.com/stream_live/335_TrueInsideHD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
-#EXTINF:-1 tvg-logo="https://overseer.blackboxsys.net/images/png/hd-topnews.png",TOPNEWS
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0033/HLS/V0033.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0172.png",CNN
-https://streaming.livescorethai.net/iptv/hd-cnn.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/200px-Aljazeera_eng.svg.png",Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/512px-New_Bloomberg_Logo.svg.png",Bloomberg
-https://streaming.livescorethai.net/iptv/sd-bloomberg.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/150px-Fox_News_Channel_logo.svg.png",Foxnews
-https://streaming.livescorethai.net/iptv/uk-foxnews.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/CNBC_2023.svg/200px-CNBC_2023.svg.png",CNBC
-https://streaming.livescorethai.net/iptv/sd-cnbc.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/R_0122.png",CNA
-#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0122/HLS/V0122.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_NHK_new.png",NHK World
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0102/HLS/V0102.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/CGTN.png",CGTN
-#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com/
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0174/HLS/V0174.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBCNEWS.png",BBC NEWS
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Sky-news-logo.svg/512px-Sky-news-logo.svg.png",Sky NEWS
-#EXTVLCOPT:http-referrer=https://livescorethai.net
-https://streaming.livescorethai.net/iptv/uk-skynews.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTChannel.png",RT
-#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0105/HLS/V0105.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//RTDocumentary.png",RT Documentary
-#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0106/HLS/V0106.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TVBS.png",TVBS
-#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0108/HLS/V0108.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon/0121.png",DW
-#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
-https://49-231-37-236-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0121/HLS/V0121.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/TV5Monde%2B_Asie_logo.png/revision/latest/scale-to-width-down/250?cb=20211205122225.png",TV5 Monde
-#EXTVLCOPT:http-referrer=https://aisplay.ais.co.th
-https://bcovlive-a.akamaihd.net:443/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/profile_0/chunklist_dvr.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://dooballfree.com/
