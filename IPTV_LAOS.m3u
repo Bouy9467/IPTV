@@ -72,14 +72,11 @@ https://dookeela.live/live-tv/trueexplorelife
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/trueexploresci
 #EXTINF:-1 tvg-logo="https://s.muanlai.com//images/550/static//live_tv_img/0/0/0/436_large.jpg", food network
-https://streaming.livescorethai.net/iptv/hd-foodeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/01/02/nYeu9q.png",BBC Earth
-https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTVLCOPT:http-referrer=https://dookeela.live
+https://dookeela.live/live-tv/foodnetwork
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png", Animal Channel
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/animal-planet
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png", TLC
-https://streaming.livescorethai.net/iptv/sd-tlc.stream/playlist.m3u8|Referer=https://freetvdd.com/
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVERY CHANNEL
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/discovery
@@ -110,7 +107,7 @@ https://dookeela.live/live-tv/cartoon-network
 https://dookeela.live/live-tv/nickelodeon
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",Cartoon Club
 https://dookeela.live/live-tv/cartoonclub
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png",Boomerang
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",Boomerang
 https://dookeela.live/live-tv/boomerang
 #EXTINF:-1, tvg-logo="https://www.img.in.th/images/5f58c11b31b0b9410a65918eb633f2cb.jpg", DREAMWORKS
 #EXTVLCOPT:http-referrer=https://dookeela.live
@@ -135,13 +132,13 @@ https://dookeela.live/live-tv/cinemax
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/cinemax
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/12/05/6EeXLf.jpg",AXN
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/axn
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner TV
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/warnertv
-#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2021/11/20/6zpRvW.png",KBS world
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s",KBS world
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono29 plus
