@@ -109,12 +109,17 @@ https://dookeela.live/live-tv/mysci
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/cartoon-network
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
-
+#EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/nickelodeon
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",Cartoon Club
+#EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/cartoonclub
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",Boomerang
+#EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/boomerang
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",Boomerang
+#EXTVLCOPT:http-referrer=https://web-player.ais-vidnt.com
+https://aisplay.ais.co.th/portal/live/?vid=597dfea47ed5a24e46f67259
 #EXTINF:-1, tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-dreamworks-hd.jpg", DREAMWORKS
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/dreamworks
