@@ -124,14 +124,12 @@ https://str138.playhd.la/threstr2/animax/playlist.m3u8
 https://media.wacthstream.com/stream_live/448_DreamWorks/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-referrer=https://dookeela.live
-https://streamamg-fa.akamaiz.com/dookeela/hbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
-https://streaming.livescorethai.net/iptv/hd-hboeng.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://dookeela.live/live-tv/hbo
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO 
 http://ip168.homeip.net:8086/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
 #EXTVLCOPT:http-referrer=https://dookeela.live
-https://streamamg-fa.akamaiz.com/dookeela/hbo-hits/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTAvMjAyNCA0OjQzOjM2IEFNJmhhc2hfdmFsdWU9MTM3TjczcnlLZFZ2MWwvTWRIOVZBdz09JnZhbGlkbWludXRlcz0xJmlkPWQ3M2RlZWQzNGFkMTQ4ZmQ1OWIzNDY2MTVmMzc1MGZkJmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xNw==
+https://dookeela.live/live-tv/hbo-hits
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",HBO signature
 #EXTVLCOPT:http-referrer=https://wacth.tv
 https://media.wacthstream.com/stream_live/3BB_HBOsignature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDI0IDg6MTY6MjkgUE0maGFzaF92YWx1ZT1UQVdzUS9CdDhPY3ZjZndWWUkrYnZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgzMjE=
