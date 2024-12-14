@@ -1,4 +1,7 @@
 #EXTM3U 25.02.2024
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKgfk.png",TPF1
-#EXTVLCOPT:http-referrer=https://dooball.tv/ 
-https://dooball.tv/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C
+#EXTVLCOPT:http-referrer=https://dookeela.live 
+https://dookeela.live/live-tv/asean-cup-1
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKgfk.png",TPF1
+#EXTVLCOPT:http-referrer=https://dookeela.live 
+https://dookeela.live/live-tv/asean-cup-2
