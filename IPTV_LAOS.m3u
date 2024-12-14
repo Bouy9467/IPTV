@@ -264,6 +264,34 @@ https://dolive.thaim3u.com/hb9NRkqyf6Ruigvw1GaJMrS8jaFl4kz3/siamsport-7/playlist
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_3.png",beIN SPORT 3 VPN
 #EXTVLCOPT:http-referrer=https://dookeela.live 
 https://dookeela.live/live-tv/bein3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",beIN SPORT 4 VPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live 
+https://dookeela.live/live-tv/bein4
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",beIN SPORT 5 VPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live 
+https://dookeela.live/live-tv/bein5
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",beIN SPORT 6 VPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live 
+https://dookeela.live/live-tv/bein6
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",beIN SPORT 7 VPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live 
+https://dookeela.live/live-tv/bein7
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",beIN SPORT 8 VPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live 
+https://dookeela.live/live-tv/bein8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",beIN SPORT 9 VPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live 
+https://dookeela.live/live-tv/bein9
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp",beIN SPORT 10 VPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live 
+https://dookeela.live/live-tv/bein10
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sports 1
 #EXTVLCOPT:http-referrer=https://dooballfree.com
