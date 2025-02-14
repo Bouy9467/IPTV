@@ -65,7 +65,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 
 #EXTINF:-1 tvg-logo="https://static.thaicom.io/chbig/big_292_20240122031500.png", Doxzilla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://catking688.com/stream/c78547dc09804da8986877c148f24483/55/index.m3u8?token=MI1VlNNc0bQxuq81
+https://catking688.com/stream/d50bd4db1a3648218c1ecd0b15d6d9dd/3/index.m3u8?token=MI1VlNNc0bQxuq81
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp", True Explore Wild
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/trueexplorewild
