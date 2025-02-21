@@ -120,15 +120,13 @@ https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Refer
 https://dookeela.live/live-tv/animalshow
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live
-https://dookeela.live/live-tv/samrujlok
+https://str138.playhd.la/threstr2/samrujlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDEwOjUwOjU1IEFNJmhhc2hfdmFsdWU9bnFaR3FWN1JGS0tXR2xYOFFJMzhWUT09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=egA35yZjR0Pw6uMWC32TTQ&t=1740142255
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png", MYSCI
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/mysci
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon network
-#EXTVLCOPT:http-referrer=https://dookeela.live
-https://dookeela.live/live-tv/cartoon-network
+https://str138.playhd.la/threstr2/cartoonnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDEwOjUxOjQ1IEFNJmhhc2hfdmFsdWU9YzdaWG5SeU5JUWpIb0c1QkpLbkY1UT09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=kPLp2AwMW7K7Ug2sRtzoBA&t=1740142305
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/nickelodeon
@@ -190,8 +188,7 @@ https://dookeela.live/live-tv/trueseries
 https://dookeela.live/live-tv/trueasianmore
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp", True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela.live
-https://dookeela.live/live-tv/truethaifilm
+https://str136.playhd.la/threstr2/thaifilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDEwOjQ5OjM3IEFNJmhhc2hfdmFsdWU9VGxHVmtjL0h2MS8yMUNjSXBMcnhXQT09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=JHmQuf3Zuff086-8AzqJBw&t=1740142177
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp", True Film Asia
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/truefilmasia
