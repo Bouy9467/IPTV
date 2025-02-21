@@ -102,8 +102,7 @@ https://zekonew.iosplayer.ru/zeko/premium125/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://zekonew.iosplayer.ru/zeko/premium126/mono.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png", Animal Channel
-#EXTVLCOPT:http-referrer=https://dookeela.live
-https://dookeela.live/live-tv/animal-planet
+https://str138.playhd.la/threstr2/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDEwOjU0OjQ1IEFNJmhhc2hfdmFsdWU9VzQwdlFGdVRCTXhHVzd4YlZXa2xlQT09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=Zf0SW--iQo0CiTEl8iGe0Q&t=1740142485
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVERY CHANNEL
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/discovery
