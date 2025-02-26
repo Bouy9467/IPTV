@@ -81,6 +81,13 @@ https://keela2.com/stream/26/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp", True ball thai 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela2.com/stream/27/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp", True ball thai 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://keela2.com/stream/28/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd09ebd0-5a16-11ef-ae6e-398d852551da_webp_original.webp", True ball thai 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://keela2.com/stream/29/index.m3u8?token=mvFWafOIir5JDlQN
+
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp", True Explore Wild
 #EXTVLCOPT:http-referrer=https://newembedplay.xyz/
