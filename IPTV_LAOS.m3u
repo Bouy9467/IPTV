@@ -293,7 +293,9 @@ https://keela2.com/stream/21/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV1
 https://keela2.com/stream/64/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
-https://live2222.com/stream/28/index.m3u8?username=ip0Y6gGqTU&password=GwaG66T5U3
+https://keela2.com/stream/37/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
+#EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
+https://keela2.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
 
 #EXTINF:-1 tvg-logo="https://www.img03.xyz/assets/img/ch_logo/hd-nba.png",NBA
 https://catking688.com/stream/e328c115632141e99187c6b50b8dd99b/60/index.m3u8?token=MI1VlNNc0bQxuq81
