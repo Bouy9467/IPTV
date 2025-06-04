@@ -55,7 +55,7 @@ https://keela3.com/stream/8/index.m3u8?token=J5iyZmyDDiw7NdQm
 https://keela3.com/stream/1/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://amarin-ks7jcc.cdn.byteark.com/live/playlist.m3u8?x_ark_access_id=fleet-868&x_ark_auth_type=ark-v2&x_ark_expires=1749149759&x_ark_path_prefix=%2Flive%2F&x_ark_signature=bEYbBR-e4u6Z3gTpTNbrWw
+https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela3.com/stream/3/index.m3u8?token=J5iyZmyDDiw7NdQm
