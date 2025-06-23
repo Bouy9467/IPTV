@@ -71,7 +71,8 @@ https://keela1.com/stream/22/index.m3u8?token=ivhodmKXayus2b6r
 https://keela1.com/stream/23/index.m3u8?token=ivhodmKXayus2b6r
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp", True ball thai 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://keela1.com/stream/24/index.m3u8?token=ivhodmKXayus2b6r
+#EXTVLCOPT:http-referrer=https://1dooball.com
+https://dolive.thaim3u.com/1dooball.com/football-play-3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp", True ball thai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela1.com/stream/25/index.m3u8?token=ivhodmKXayus2b6r
