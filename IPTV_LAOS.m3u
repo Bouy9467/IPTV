@@ -109,36 +109,36 @@ https://keela2.com/stream/32/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 https://keela2.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png", Animal Channel
-https://str138.playhd.la/threstr2/animalplanet/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDEwOjU0OjQ1IEFNJmhhc2hfdmFsdWU9VzQwdlFGdVRCTXhHVzd4YlZXa2xlQT09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=Zf0SW--iQo0CiTEl8iGe0Q&t=1740142485
+https://keela2.com/stream/34/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVERY CHANNEL
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/discovery
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png", DISCOVERY Asia
 #EXTVLCOPT:http-referrer=https://dookeela.live
-https://dookeela.live/live-tv/discovery-asia
+https://keela2.com/stream/35/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-history-hd.jpg", HISTORY HD
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/history
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",afn
-https://streaming.livescorethai.net/iptv/sd-asianfood.stream/playlist.m3u8|Referer=https://freetvdd.com/
+https://keela2.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png", ANIMALSHOW
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/animalshow
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://str138.playhd.la/threstr2/samrujlok/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDEwOjUwOjU1IEFNJmhhc2hfdmFsdWU9bnFaR3FWN1JGS0tXR2xYOFFJMzhWUT09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=egA35yZjR0Pw6uMWC32TTQ&t=1740142255
+https://keela2.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png", MYSCI
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/mysci
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon network
-https://str138.playhd.la/threstr2/cartoonnetwork/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDEwOjUxOjQ1IEFNJmhhc2hfdmFsdWU9YzdaWG5SeU5JUWpIb0c1QkpLbkY1UT09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=kPLp2AwMW7K7Ug2sRtzoBA&t=1740142305
+https://keela2.com/stream/38/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 #EXTVLCOPT:http-referrer=https://dookeela.live
-https://dookeela.live/live-tv/nickelodeon
+https://keela2.com/stream/39/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png",Cartoon Club
 #EXTVLCOPT:http-referrer=https://dookeela.live
-https://dookeela.live/live-tv/cartoonclub
+https://keela2.com/stream/39/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",Boomerang
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/boomerang
