@@ -163,8 +163,7 @@ https://dookeela.live/live-tv/cinemax
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/cinemax
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN
-#EXTVLCOPT:http-referrer=https://dookeela.live
-https://dookeela.live/live-tv/axn
+http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner TV
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/warnertv
@@ -296,4 +295,5 @@ https://keela2.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
 https://keela2.com/stream/37/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
 https://keela2.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
+
 
