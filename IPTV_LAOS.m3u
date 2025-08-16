@@ -67,13 +67,16 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.1314s.com/memfs/4fb11d9e-d222-4950-85ce-f81017f3eca1.m3u8?token=J5iyZmyDDiw7NdQm
+#EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://keela3.com/stream/106/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live.1314s.com/memfs/20e7030c-c971-4387-a9ab-b812a5fcb221.m3u8?token=J5iyZmyDDiw7NdQm
+https://keela3.com/stream/109/index.m3u8?token=J5iyZmyDDiw7NdQm
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp", True ball thai 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://1dooball.com
-https://dolive.thaim3u.com/1dooball.com/football-play-3/playlist.m3u8
+https://live.1314s.com/memfs/20e7030c-c971-4387-a9ab-b812a5fcb221.m3u8?token=J5iyZmyDDiw7NdQm
+
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp", True ball thai 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela1.com/stream/25/index.m3u8?token=ivhodmKXayus2b6r
@@ -294,6 +297,7 @@ https://keela2.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
 https://keela2.com/stream/37/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
 https://keela2.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
+
 
 
 
