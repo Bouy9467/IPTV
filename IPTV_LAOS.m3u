@@ -190,7 +190,8 @@ https://wandering-oldman.github.io/movies/true-series.m3u8
 https://dookeela.live/live-tv/trueasianmore
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp", True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://str136.playhd.la/threstr2/thaifilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDI1IDEwOjQ5OjM3IEFNJmhhc2hfdmFsdWU9VGxHVmtjL0h2MS8yMUNjSXBMcnhXQT09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=JHmQuf3Zuff086-8AzqJBw&t=1740142177
+#EXTVLCOPT:http-referrer=https://dookeela2.live
+https://dkl-o53d.cdn.akamaiz.com/dookeela/truethaifilm/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp", True Film Asia
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/truefilmasia
@@ -296,6 +297,7 @@ https://keela2.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
 https://keela2.com/stream/37/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
 https://keela2.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
+
 
 
 
