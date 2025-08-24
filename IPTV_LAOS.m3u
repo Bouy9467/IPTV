@@ -65,10 +65,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live.1314s.com/memfs/4fb11d9e-d222-4950-85ce-f81017f3eca1.m3u8?token=J5iyZmyDDiw7NdQm
+https://live7.1314s.com/memfs/3bf3d5bb-21e1-4ea8-a2ec-19f5726c2740.m3u8?token=3a6q9vyu55f
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live.1314s.com/memfs/02d1f315-6561-4651-b2aa-531aa2c8dd60.m3u8
+https://live.1314s.com/memfs/cc966d62-ac96-4448-ab53-8e4f66794ef7.m3u8?token=kgjwjpc4s6
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.1314s.com/memfs/20e7030c-c971-4387-a9ab-b812a5fcb221.m3u8
@@ -296,6 +296,7 @@ https://keela2.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
 https://keela2.com/stream/37/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
 https://keela2.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
+
 
 
 
