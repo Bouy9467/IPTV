@@ -220,63 +220,44 @@ https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1
 https://verb169.com/stream/31/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1 VPN
-https://keela2.com/stream/1/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013336.png",True Premier Football 2 VPN
-https://verb169.com/stream/30/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013336.png",True Premier Football 2
 https://keela2.com/stream/2/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000013337.webp",True Premier Football 3 VPN
-https://keela2.com/stream/3/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/1000013337.webp",True Premier Football 3
-https://keela2.com/stream/3/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013335.png",True Premier Football 4 VPN
-https://keela2.com/stream/4/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013335.png",True Premier Football 4
 https://keela2.com/stream/4/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013338.png",True Premier Football 5 VPN
-https://keela2.com/stream/5/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013338.png",True Premier Football 5
 https://keela2.com/stream/5/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",beIN SPORT 1
-https://ful123.com/Resteam1/index.m3u8WmZzdW1zZnplWlNFMnEvVzVBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",beIN SPORT 1 VPN
-https://ful123.com/Resteam2/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ful123.com/bein1/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",beIN SPORT 2
-https://ful123.com/Resteam3/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",beIN SPORT 2 VPN
-https://keela2.com/stream/9/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ful123.com/bein2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",beIN SPORT 3
-#EXTVLCOPT:http-referrer=https://dooball.com
-https://0gdh18df366so7k.kaleycuoco.org/1dooball.com/siamsport-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMjUgMTE6MjQ6MDIgQU0maGFzaF92YWx1ZT1RSTRRWmZzdW1zZnplWlNFMnEvVzVBPT0mdmFsaWRtaW51dGVzPTYw
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",beIN SPORT 3 VPN
-https://keela2.com/stream/10/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",beIN SPORT 4 VPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://ful123.com/bein1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",beIN SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela2.com/stream/11/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",beIN SPORT 5 VPN
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",beIN SPORT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela2.com/stream/12/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",beIN SPORT 6 VPN
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",beIN SPORT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela2.com/stream/13/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",beIN SPORT 7 VPN
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",beIN SPORT 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela2.com/stream/14/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",beIN SPORT 8 VPN
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",beIN SPORT 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela2.com/stream/15/index.m3u8?token=mvFWafOIir5JDlQN
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",beIN SPORT 9 VPN
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",beIN SPORT 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela3.com/stream/19/index.m3u8?token=J5iyZmyDDiw7NdQm
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp",beIN SPORT 10 VPN
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp",beIN SPORT 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://keela3.com/stream/21/index.m3u8?token=J5iyZmyDDiw7NdQm
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp",beIN SPORT 10 VPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://keela3.com/stream/20/index.m3u8?token=J5iyZmyDDiw7NdQm
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sports 1
 https://keela2.com/stream/16/index.m3u8?username=PrVx9n8jKo&password=hw4bIEKgiM
@@ -304,6 +285,7 @@ https://keela2.com/stream/21/index.m3u8?token=mvFWafOIir5JDlQN
 https://verb169.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
 https://verb169.com/stream/37/index.m3u8?token=mvFWafOIir5JDlQN
+
 
 
 
