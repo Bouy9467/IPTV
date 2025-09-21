@@ -312,21 +312,22 @@ https://cdn.8kgoal.com/bbs/foxsports1usa/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/foxsports2usa/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
+#EXTINF:-1, https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",Sport-tv1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/sporttv1/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
+#EXTINF:-1, https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",Sports-tv2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/sporttv2/playlist.m3u8
-#EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV2
+#EXTINF:-1, https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png",Sport-tv3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/sporttv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wandering-oldman.github.io/sport/epl1-blue.m3u8
+
 
 
 
