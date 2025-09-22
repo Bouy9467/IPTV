@@ -14,4 +14,13 @@ https://cdn.8kgoal.com/bbs/tsp5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKgfk.png",TPF1
 #EXTVLCOPT:http-referrer=https://dookelasod.com/ 
 https://cdn.8kgoal.com/bbs/tsp7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKgfk.png",TPF1
+#EXTVLCOPT:http-referrer=https://dookelasod.com/ 
+https://cdn.8kgoal.com/bbs/pptv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKgfk.png",TPF1
+#EXTVLCOPT:http-referrer=https://dookelasod.com/ 
+https://cdn.8kgoal.com/bbs/ch7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sv1.picz.in.th/images/2022/03/13/rVKgfk.png",TPF1
+#EXTVLCOPT:http-referrer=https://dookelasod.com/ 
+https://cdn.8kgoal.com/bbs/one/playlist.m3u8
 
