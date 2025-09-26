@@ -289,10 +289,10 @@ https://wandering-oldman.github.io/sport/true sport2-green.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/ 
 https://cdn.8kgoal.com/bbs/tsp2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sports 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wandering-oldman.github.io/sport/true sport3-green.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sports 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/ 
 https://cdn.8kgoal.com/bbs/tsp3/playlist.m3u8
@@ -347,6 +347,7 @@ https://cdn.8kgoal.com/bbs/sporttv2/playlist.m3u8
 https://cdn.8kgoal.com/bbs/sporttv3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+
 
 
 
