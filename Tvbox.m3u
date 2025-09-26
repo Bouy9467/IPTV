@@ -47,7 +47,7 @@ https://cdn.8kgoal.com/bbs/tpf1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/tpf2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013336.png",True Premier Football 3
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/tpf3/playlist.m3u8
@@ -137,6 +137,7 @@ https://cdn.8kgoal.com/bbs/beinmax6fr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png",bein sport 7max
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/beinmax7fr/playlist.m3u8
+
 
 
 
