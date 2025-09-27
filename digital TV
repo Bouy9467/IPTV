@@ -215,8 +215,7 @@ https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookelasod.com/
-https://cdn.8kgoal.com/bbs/tpf1/playlist.m3u8
+https://wandering-oldman.github.io/sport/epl1-blue.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013336.png",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
