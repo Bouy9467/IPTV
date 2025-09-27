@@ -1,10 +1,12 @@
 #EXTM3U 25.02.2024
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wandering-oldman.github.io/sport/epl1-blue.m3u8
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/monomax1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wandering-oldman.github.io/sport/monomax3-blue.m3u8
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/monomax-2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
@@ -157,4 +159,5 @@ https://cdn.8kgoal.com/bbs/skybundesliga4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png",Skysport 5
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/skybundesliga5/playlist.m3u8
+
 
