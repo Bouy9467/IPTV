@@ -144,3 +144,18 @@ https://cdn.8kgoal.com/bbs/playsportsfootball2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 3
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/playsportsfootball3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png",Skysport 1
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/skybundesliga1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png",Skysport 2
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/skybundesliga3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png",Skysport 3
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/skybundesliga3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png",Skysport 4
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/skybundesliga4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Sky_Sport_Bundesliga_UHD.png",Skysport 5
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/skybundesliga5/playlist.m3u8
