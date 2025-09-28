@@ -152,9 +152,8 @@ https://aisplay.ais.co.th/portal/live/?vid=597dfea47ed5a24e46f67259
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/dreamworks
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
-https://str136.playhd.la/threstr2/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI1IDExOjIyOjUzIFBNJmhhc2hfdmFsdWU9MDVxL2FEWEhXT0I2MktDNDlsaStwdz09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=JLyvthm-llWnHjCd-z5zCw&t=1739928173
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO 
-http://ip168.homeip.net:8086/hbo.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela2.live
+https://streamamg-fa.akamaiz.com/dookeela/hbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/hbo-hits
@@ -191,7 +190,8 @@ http://49.0.64.96:8007/SERIES
 https://wandering-oldman.github.io/movies/true-series.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wandering-oldman.github.io/movies/true-series-blue.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela2.live
+https://streamamg-fa.akamaiz.com/dookeela/trueasianmore/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp", True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wandering-oldman.github.io/movies/true-thaifilm-blue.m3u8
@@ -321,4 +321,5 @@ https://cdn.8kgoal.com/bbs/spotv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/spotv2/playlist.m3u8
+
 
