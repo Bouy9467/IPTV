@@ -152,7 +152,9 @@ https://aisplay.ais.co.th/portal/live/?vid=597dfea47ed5a24e46f67259
 #EXTVLCOPT:http-referrer=https://dookeela.live
 https://dookeela.live/live-tv/dreamworks
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
-https://str136.playhd.la/threstr2/hbohd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOC8yMDI1IDExOjIyOjUzIFBNJmhhc2hfdmFsdWU9MDVxL2FEWEhXT0I2MktDNDlsaStwdz09JnZhbGlkbWludXRlcz0xMjA=&s=web&u=&b=aHR0cHM6Ly9tdWFubGFpLmNvbS8=&keysec=JLyvthm-llWnHjCd-z5zCw&t=1739928173
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela2.live
+https://dookeela2.live/live-tv/tpf3
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO 
 http://ip168.homeip.net:8086/hbo.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
