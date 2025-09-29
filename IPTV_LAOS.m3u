@@ -179,7 +179,7 @@ https://cdn.8kgoal.com/bbs/skybundesliga4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/skybundesliga5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="hhttps://dookeela2.live/images/logo.png",DKL Sport1
+#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport1
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/dklsport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport2
@@ -188,4 +188,11 @@ https://cdn.8kgoal.com/bbs/dklsport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport3
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/dklsport1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport3
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/dklsport4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport3
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/dklsport5/playlist.m3u8
+
 
