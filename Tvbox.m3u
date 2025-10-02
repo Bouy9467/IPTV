@@ -153,22 +153,19 @@ https://aisplay.ais.co.th/portal/live/?vid=597dfea47ed5a24e46f67259
 https://dookeela.live/live-tv/dreamworks
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-referrer=https://dookeela2.live
-https://streamamg-fa.akamaiz.com/dookeela/hbo/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMi8yMDI1LCA5OjUyOjE5IEFNJmhhc2hfdmFsdWU9OXZzOUVkdUpVVVRhOFczYjAyMEtqUT09JnZhbGlkbWludXRlcz0xJmlkPWM2Njc2MTlhM2QyZGYyYzI3OWFmYjkyNGFmZGNkYmU3JmNoZWNraXA9dHJ1ZSZzdHJtX2xlbj0xMg==
+https://dookeela2.live/live-tv/hbo
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
 #EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela.live/live-tv/hbo-hits
+https://dookeela2.live/live-tv/hbo-hits
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",HBO signature
 #EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela.live/live-tv/hbo-signature
+https://dookeela2.live/live-tv/hbo-signature
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO family
 #EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela.live/live-tv/hbo-family
+https://dookeela2.live/live-tv/hbo-family
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 #EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela.live/live-tv/cinemax
-#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela.live/live-tv/cinemax
+https://dookeela2.live/live-tv/cinemax
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner TV
@@ -321,6 +318,7 @@ https://cdn.8kgoal.com/bbs/spotv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/spotv2/playlist.m3u8
+
 
 
 
