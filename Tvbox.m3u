@@ -153,7 +153,7 @@ https://aisplay.ais.co.th/portal/live/?vid=597dfea47ed5a24e46f67259
 https://dookeela.live/live-tv/dreamworks
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/hbo
+https://dookeela2.live/live-tv/hbo-hits
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
 #EXTVLCOPT:http-referrer=https://dookeela2.live
 https://dookeela2.live/live-tv/hbo-hits
@@ -346,6 +346,7 @@ https://cdn.8kgoal.com/bbs/playsportsfootball8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 9
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/playsportsfootball9/playlist.m3u8
+
 
 
 
