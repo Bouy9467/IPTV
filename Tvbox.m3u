@@ -319,6 +319,34 @@ https://cdn.8kgoal.com/bbs/spotv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/spotv2/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 1
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/playsportsfootball1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 2
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/playsportsfootball2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 3
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/playsportsfootball3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 4
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/playsportsfootball4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 5
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/playsportsfootball5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 6
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/playsportsfootball6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 7
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/playsportsfootball7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 8
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/playsportsfootball8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 9
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/playsportsfootball9/playlist.m3u8
+
 
 
 
