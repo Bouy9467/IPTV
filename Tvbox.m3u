@@ -112,10 +112,6 @@ https://dookeela2.live/live-tv/trueexplorelife
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
 #EXTVLCOPT:http-referrer=https://dookeela2.live
 https://dookeela2.live/live-tv/trueexploresci
-#EXTINF:-1 tvg-logo="https://s.muanlai.com//images/550/static//live_tv_img/0/0/0/436_large.jpg", food network
-#EXTVLCOPT:http-referrer=https://newembedplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-https://keela2.com/stream/33/index.m3u8?token=mvFWafOIir5JDlQN
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png", Animal Channel
 #EXTVLCOPT:http-referrer=https://dookeela2.live
 https://dookeela2.live/live-tv/animal-planet
@@ -129,7 +125,8 @@ https://dookeela2.live/live-tv/discovery-asia
 #EXTVLCOPT:http-referrer=https://dookeela2.live
 https://dookeela2.live/live-tv/history
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",afn
-https://keela2.com/stream/36/index.m3u8?token=mvFWafOIir5JDlQN
+#EXTVLCOPT:http-referrer=https://dookeela2.live
+https://dookeela2.live/live-tv/rock-action
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png", ANIMALSHOW
 #EXTVLCOPT:http-referrer=https://dookeela2.live
 https://dookeela2.live/live-tv/animalshow
@@ -208,11 +205,11 @@ https://wandering-oldman.github.io/movies/true-film1hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wandering-oldman.github.io/movies/true-film2hd.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp", TRUE XZYTE
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/truex-zyte
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
+https://dookeela2.live/live-tv/truex-zyte
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp", TRUE SPARK JUMP
-#EXTVLCOPT:http-referrer=https://dookeela.live/
-https://dookeela.live/live-tv/truesparkplay
+#EXTVLCOPT:http-referrer=https://dookeela2.live/
+https://dookeela2.live/live-tv/truesparkplay
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png", TVB
 https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 
@@ -352,6 +349,7 @@ https://cdn.8kgoal.com/bbs/playsportsfootball8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 9
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/playsportsfootball9/playlist.m3u8
+
 
 
 
