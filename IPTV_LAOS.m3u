@@ -195,4 +195,12 @@ https://cdn.8kgoal.com/bbs/dklsport4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/dklsport5/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",diemas Sport
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/diemasport/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",diemas Sport2
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/diemasport2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",diemas Sport3
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/diemasport3/playlist.m3u8
