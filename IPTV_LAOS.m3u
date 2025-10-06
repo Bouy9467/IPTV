@@ -188,10 +188,10 @@ https://cdn.8kgoal.com/bbs/dklsport1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport3
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/dklsport1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport3
+#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport4
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/dklsport4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport3
+#EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",DKL Sport5
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/dklsport5/playlist.m3u8
 
@@ -204,3 +204,15 @@ https://cdn.8kgoal.com/bbs/diemasport2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dookeela2.live/images/logo.png",diemas Sport3
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/diemasport3/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",Sport-tv1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/sporttv1/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",Sports-tv2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/sporttv2/playlist.m3u8
+#EXTINF:-1, tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fjy5d31700902671.png",Sport-tv3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookelasod.com/
+https://cdn.8kgoal.com/bbs/sporttv3/playlist.m3u8
