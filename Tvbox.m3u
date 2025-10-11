@@ -126,7 +126,7 @@ https://dookeela2.live/live-tv/discovery-asia
 https://dookeela2.live/live-tv/history
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon//R3_0161.png",afn
 #EXTVLCOPT:http-referrer=https://dookeela2.live
-https://streamamg-fa.akamaiz.com/dookeela/trueasianmore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNSwgMTE6NDY6NDEgUE0maGFzaF92YWx1ZT02TnVIZlp2Z0RTeXNYMGs2SG1iYzh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9ZWY0ZDI3NmNhZDZiNzY3NDE3MzM0NjRkOGUxMTFjN2EmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTIy
+https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo-family/chunks.m3u8?nimblesessionid=1755213&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNSwgMTE6NDk6NTkgUE0maGFzaF92YWx1ZT0wdFlTUURhN3YydHpaZ2J2eGtrYW9nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjJhZTlhYTA5ODlhYWQwMTI3ZTU3ZTAwNzYzYTg5MDUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png", ANIMALSHOW
 #EXTVLCOPT:http-referrer=https://dookeela2.live
 https://dookeela2.live/live-tv/animalshow
@@ -349,6 +349,7 @@ https://cdn.8kgoal.com/bbs/playsportsfootball8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 9
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/playsportsfootball9/playlist.m3u8
+
 
 
 
