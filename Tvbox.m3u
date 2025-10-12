@@ -153,18 +153,22 @@ https://dookeela2.live/live-tv/dreamworks
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela2.live
+https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo/chunks.m3u8?nimblesessionid=1757355&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNSwgMTE6NTk6NDEgUE0maGFzaF92YWx1ZT1NZzV4TTZrWlNGd1Q5bklCcTdrK1VRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjJhZTlhYTA5ODlhYWQwMTI3ZTU3ZTAwNzYzYTg5MDUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTEy
 https://dookeela2.live/live-tv/hbo
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
 #EXTVLCOPT:http-referrer=https://dookeela2.live
+https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo-hits/chunks.m3u8?nimblesessionid=1757477&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNSwgMTI6MDA6MTUgQU0maGFzaF92YWx1ZT1rcjVmSy82LzNPRVFnUUxjQkNPcjRRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjJhZTlhYTA5ODlhYWQwMTI3ZTU3ZTAwNzYzYTg5MDUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE3
 https://dookeela2.live/live-tv/hbo-hits
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",HBO signature
 #EXTVLCOPT:http-referrer=https://dookeela2.live
 https://dookeela2.live/live-tv/hbo-signature
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO family
 #EXTVLCOPT:http-referrer=https://dookeela2.live
+https://dkl-o53d.cdn.akamaiz.com/dookeela/hbo-family/chunks.m3u8?nimblesessionid=1757666&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTIvMjAyNSwgMTI6MDE6MDQgQU0maGFzaF92YWx1ZT05Qk1KYWJmNER0dDl3V1ZYUmlkdHNRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjJhZTlhYTA5ODlhYWQwMTI3ZTU3ZTAwNzYzYTg5MDUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE5
 https://dookeela2.live/live-tv/hbo-family
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
 #EXTVLCOPT:http-referrer=https://dookeela2.live
+https://dkl-o53d.cdn.akamaiz.com/dookeela/cinemax/chunks.m3u8?nimblesessionid=1757090&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTEvMjAyNSwgMTE6NTg6MjMgUE0maGFzaF92YWx1ZT1xYVpmSkNwcnFoQUkrd08zbS92WHRnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjJhZTlhYTA5ODlhYWQwMTI3ZTU3ZTAwNzYzYTg5MDUmY2hlY2tpcD10cnVlJnN0cm1fbGVuPTE2
 https://dookeela2.live/live-tv/cinemax
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=m3u8
@@ -349,6 +353,7 @@ https://cdn.8kgoal.com/bbs/playsportsfootball8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 9
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/playsportsfootball9/playlist.m3u8
+
 
 
 
