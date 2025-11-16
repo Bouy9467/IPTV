@@ -219,11 +219,11 @@ https://wandering-oldman.github.io/sport/epl1-blue.m3u8
 https://cdn.8kgoal.com/bbs/tpf2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live/
-https://dookeela2.live/live-tv/tpf3
+#EXTVLCOPT:http-referrer=https://dookeelasod.online
+https://cdn.8kgoal.com/bbs/tpf3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookelasod.com/
+#EXTVLCOPT:http-referrer=https://dookeelasod.online
 https://cdn.8kgoal.com/bbs/tpf4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013338.png",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -332,6 +332,7 @@ https://cdn.8kgoal.com/bbs/playsportsfootball8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 9
 #EXTVLCOPT:http-referrer=https://dookelasod.com/
 https://cdn.8kgoal.com/bbs/playsportsfootball9/playlist.m3u8
+
 
 
 
