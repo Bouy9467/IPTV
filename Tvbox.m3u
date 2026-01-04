@@ -75,7 +75,7 @@ https://dookeela4.live/live-tv/monomax-2
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
-https://dookeela4.live/live-tv/monomax-3
+https://dookeela4.live/football/match/537771
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
@@ -333,6 +333,7 @@ https://cdn.8kgoal.com/bbs/playsportsfootball8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 9
 #EXTVLCOPT:http-referrer=https://dookeelasod.online/
 https://cdn.8kgoal.com/bbs/playsportsfootball9/playlist.m3u8
+
 
 
 
