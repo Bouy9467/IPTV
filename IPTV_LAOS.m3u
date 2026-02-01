@@ -53,16 +53,20 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 https://streaming-srt-web.thairath.co.th/live/playlist/abr.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG",3 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/ch3hd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png",AmarinTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffad/vibomi/vibomi.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/amarintv
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0018.png",CH7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/gohg/gohg.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/ch7hd
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffab/rurumuu/rurumuu.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/pptv
 
 #EXTINF:-1 tvg-logo="https://img.monomax.me/9ahQXPNNQxosilSBzpPyZRzSQ6M=/www.monomax.me/assets/monomax/images/logo2025/monomax-logo-white-h-sd.png", mono max 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -103,67 +107,67 @@ https://dookeela4.live/live-tv/monomax-9
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ca686ee0-b44c-11ee-9f05-591527f02603_webp_original.webp", True Explore Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/trueexplorewild
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/trueexplorewild
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explore Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/trueexplorelife
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/trueexplorelife
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",True Explore Sci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/trueexploresci
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/trueexploresci
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png", Animal Channel
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/animal-planet
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/animal-planet
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVERY CHANNEL
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/discovery
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/discovery
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png", DISCOVERY Asia
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/discovery-asia
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/discovery-asia
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-history-hd.jpg", HISTORY HD
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/history
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/history
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png", ANIMALSHOW
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/animalshow
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/animalshow
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/samrujlok
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/samrujlok
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon network
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/cartoon-network
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/cartoon-network
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/nickelodeon
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/nickelodeon
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/boomerang
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/boomerang
 #EXTINF:-1, tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-dreamworks-hd.jpg", DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/dreamworks
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/dreamworks
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/hbo
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/hbo
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/hbo-hits
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/hbo-hits
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",HBO signature
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/hbo-signature
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/hbo-signature
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO family
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/hbo-family
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/hbo-family
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/cinemax
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/cinemax
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186394&extension=m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner TV
@@ -179,23 +183,24 @@ https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True MOVIE HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/truemoviehits
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/truemoviehits
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp",true series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wandering-oldman.github.io/movies/true-series.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/trueseries
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",True Asian More
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/trueasianmore
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/trueasianmore
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cffb79f0-b44d-11ee-80bd-b787d7bab688_webp_original.webp", True Thai Film
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/truethaifilm
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/truethaifilm
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb907420-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp", True Film Asia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela2.live
-https://dookeela2.live/live-tv/truefilmasia
+#EXTVLCOPT:http-referrer=https://dookeela4.live
+https://dookeela4.live/live-tv/truefilmasia
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cad78460-b44c-11ee-80bd-b787d7bab688_webp_original.webp",True Film 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wandering-oldman.github.io/movies/true-film1hd.m3u8
@@ -203,11 +208,11 @@ https://wandering-oldman.github.io/movies/true-film1hd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://wandering-oldman.github.io/movies/true-film2hd.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp", TRUE XZYTE
-#EXTVLCOPT:http-referrer=https://dookeela2.live/
-https://dookeela2.live/live-tv/truex-zyte
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/truex-zyte
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd2cd90-b44d-11ee-bbdb-077300b4f5a1_webp_original.webp", TRUE SPARK JUMP
-#EXTVLCOPT:http-referrer=https://dookeela2.live/
-https://dookeela2.live/live-tv/truesparkplay
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/truesparkplay
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/TVBThai.png", TVB
 https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 
@@ -220,82 +225,82 @@ https://wandering-oldman.github.io/sport/epl1-blue.m3u8
 https://cdn.8kgoal.com/bbs/tpf2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/tpf3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tpf3
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/tpf4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tpf4
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013338.png",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/tpf5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tpf5
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",beIN SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein1
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",beIN SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein2
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp",beIN SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein3
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7a5b20-30f6-11ee-8c65-b3a6cba5ed9d_webp_original.webp",beIN SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein4
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/300adb50-30f6-11ee-b3e7-85edd640cc04_webp_original.webp",beIN SPORT 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein5
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/08/02/2f7ad050-30f6-11ee-b57d-a9829f092f3e_webp_original.webp",beIN SPORT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein6/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein6
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/9129ec90-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",beIN SPORT 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein7
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91295050-5a1d-11ef-a30f-0d36085b5b8b_webp_original.webp",beIN SPORT 8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein8/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/91c0fc70-5a1d-11ef-b567-e1cdaa5397dd_webp_original.webp",beIN SPORT 9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-##EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein9/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein9
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/08/14/920f6a90-5a1d-11ef-b4ec-3bd23b99cc20_webp_original.webp",beIN SPORT 10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/bein10/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/bein10
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cdd42d20-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/ 
-https://cdn.8kgoal.com/bbs/tsp1/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tsp1
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/tsp2/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tsp2
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/tsp3/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tsp3
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf36f170-b44d-11ee-b20d-816339e67c2d_webp_original.webp",True Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookelasod.online/ 
-https://cdn.8kgoal.com/bbs/tsp4/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tsp4
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cf4a2b50-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sports 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookelasod.online/ 
-https://cdn.8kgoal.com/bbs/tsp5/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tsp5
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cff0f2a0-b44d-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Sports 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookelasod.online/ 
-https://cdn.8kgoal.com/bbs/tsp7/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://dookeela4.live/
+https://dookeela4.live/live-tv/tsp7
 
 #EXTINF:-1, tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_original.webp",True SPOTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -333,5 +338,6 @@ https://cdn.8kgoal.com/bbs/playsportsfootball8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.thumbsup.in.th/wp-content/uploads/2022/07/aisplay-system-error-0.png",AIS PLAY 9
 #EXTVLCOPT:http-referrer=https://dookeelasod.online/
 https://cdn.8kgoal.com/bbs/playsportsfootball9/playlist.m3u8
+
 
 
