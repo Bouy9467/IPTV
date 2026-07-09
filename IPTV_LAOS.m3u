@@ -209,11 +209,10 @@ https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img5.pic.in.th/file/secure-sv1/10000133315434e0fe446e2117.png",True Premier Football 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wandering-oldman.github.io/sport/epl1-blue.m3u8
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
 #EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/1000013336.png",True Premier Football 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeelasod.online/
-https://cdn.8kgoal.com/bbs/tpf2/playlist.m3u8
+http://89.187.179.148:826/anto.j/c9yJDcXyPe/120161
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True Premier Football 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live/
