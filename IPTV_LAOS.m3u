@@ -172,8 +172,7 @@ https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
 https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True MOVIE HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/truemoviehits
+https://ctrl.laotv.la/tokenlive/Movie_Hit/index.m3u8?va=4933036983&token=2eb58ae0fb78a4041814
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/03/01/201c6dd0-d79f-11ee-afcd-214a368edc48_webp_original.webp",true series
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live
