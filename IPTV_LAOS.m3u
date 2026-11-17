@@ -96,29 +96,23 @@ https://prowingame345.net/resteam4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explore Life
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/trueexplorelife
+http://103.253.74.210:7070/stream/95/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c9f16a20-b44c-11ee-8e80-c3f417d0d932_webp_original.webp",True Explore Sci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.140
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/trueexploresci
+http://103.253.74.210:7070/stream/96/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png", Animal Channel
 https://ctrl.laotv.la/tokenlive/AnimalPlanet/index.m3u8?va=4926708439&token=c9415f03f3fb15357576
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//Discovery.png", DISCOVERY CHANNEL
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/discovery
+http://103.253.74.210:7070/stream/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//DiscoveryAsia.png", DISCOVERY Asia
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/discovery-asia
+http://103.253.74.210:7070/stream/108/index.m3u8
 #EXTINF:-1 tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-history-hd.jpg", HISTORY HD
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/history
+http://103.253.74.210:7070/stream/109/index.m3u8
 #EXTINF:-1, tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png", ANIMALSHOW
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/animalshow
+http://103.253.74.210:7070/stream/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://103.253.74.210:7070/stream/94/index.m3u8
+http://103.253.74.210:7070/stream/111/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon network
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://103.253.74.210:7070/stream/118/index.m3u8
@@ -130,23 +124,18 @@ http://103.253.74.210:7070/stream/117/index.m3u8
 http://103.253.74.210:7070/stream/119/index.m3u8
 #EXTINF:-1, tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-dreamworks-hd.jpg", DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/dreamworks
+http://103.253.74.210:7070/stream/97/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://103.253.74.210:7070/stream/119/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/hbo-hits
+http://103.253.74.210:7070/stream/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0149.png",HBO signature
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/hbo-signature
+http://103.253.74.210:7070/stream/103/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0150.png",HBO family
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/hbo-family
+http://103.253.74.210:7070/stream/101/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0147.png", CINEMAX
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/cinemax
+http://103.253.74.210:7070/stream/99/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png",AXN
 http://103.253.74.210:7070/stream/89/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner TV
@@ -156,10 +145,10 @@ http://103.253.74.210:7070/stream/94/index.m3u8
 http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono29 plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://monomax-ooleht.cdn.byteark.com/fleetstream/MonoPlus/index.m3u8
+http://103.253.74.210:7070/stream/105/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//3BBAsian_new.png",ASIAN Hit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://monomax-2qrxos.cdn.byteark.com/fleetstream/AsianHit/index.m3u8
+http://103.253.74.210:7070/stream/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",True MOVIE HITS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ctrl.laotv.la/tokenlive/Movie_Hit/index.m3u8?va=4933036983&token=2eb58ae0fb78a4041814
