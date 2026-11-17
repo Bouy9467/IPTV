@@ -118,26 +118,23 @@ https://dookeela4.live/live-tv/history
 https://dookeela4.live/live-tv/animalshow
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png", สำรวจโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/samrujlok
+http://103.253.74.210:7070/stream/94/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png",Cartoon network
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://103.253.74.210:7070/stream/118/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO_Nickelodeon2.png",Nickelodeon
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/nickelodeon
+http://103.253.74.210:7070/stream/117/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang2024.png",Boomerang
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://dookeela4.live
-https://dookeela4.live/live-tv/boomerang
+http://103.253.74.210:7070/stream/119/index.m3u8
 #EXTINF:-1, tvg-logo="https://ui.dmpcdn.com/tvbox-web-cdn/imgs/channels/channel-dreamworks-hd.jpg", DREAMWORKS
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela4.live
 https://dookeela4.live/live-tv/dreamworks
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/R_0148.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ctrl.laotv.la/tokenlive/HBO/index.m3u8?va=4926711351&token=0265b117e24c863fbac8
+http://103.253.74.210:7070/stream/119/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0151.png",HBO Hits
 #EXTVLCOPT:http-referrer=https://dookeela4.live
 https://dookeela4.live/live-tv/hbo-hits
@@ -154,7 +151,7 @@ https://dookeela4.live/live-tv/cinemax
 http://103.253.74.210:7070/stream/89/index.m3u8
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png",Warner TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://wandering-oldman.github.io/movies/true-warner.m3u8
+http://103.253.74.210:7070/stream/94/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s",KBS world
 http://49.0.64.96:8007/SERIES
 #EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png",Mono29 plus
@@ -230,7 +227,7 @@ https://dookeela4.live/live-tv/bein3
 https://ctrl.laotv.la/tokenlive/TrueSport6/index.m3u8?va=1785902226&token=56cafcc2e029db1f2aef
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce5c21d0-b44d-11ee-aa7d-afe908f95743_webp_original.webp",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://ctrl.laotv.la/tokenlive/TrueSport2/index.m3u8?va=1793174146&token=6ca79e4da4f5f508ae3d
+http://103.253.74.210:7070/stream/54/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/ce9707f0-b44d-11ee-8e80-c3f417d0d932_webp_original.webp",True Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ctrl.laotv.la/tokenlive/TrueSport3/index.m3u8?va=4926709345&token=bfd6f73a6a36d798f961
